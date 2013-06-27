@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<ModulePrefs title="NewstickerKECar" description="RecentNewsKECCCS-Vertical Scroll"
+  title_url="http://dailyatheistquote.com" author="NiSYS"
+thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+author_email="ni.sys745@gmail.com" height="200" width="300" />
+
+<Content type="html"><![CDATA[
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<style type="text/css" >
+
+#ticker_cont{
+height: 400px;
+overflow: hidden;
+color:  rgb(0,57,101);
+
+
+}
+
+#ticker_cont li {
+ height: 50px;
+color: rgb(0,57,101);
+font: 12px DejaVu Sans;
+
+}
+
+a:link {
+  color: rgb(0,57,101);
+   background-color: transperant;
+  text-decoration: none ;
+}
+
+
+a:hover {
+  color: rgb(255, 102, 102);
+
+   
+}
+
+body
+{
+background-color: rgb(125,183,234);
+}
+
+
+</style>
+
+<script type="text/javascript">
+
+
+function tick2() {
+$('#ticker_cont li:first').slideUp(function () { $(this).appendTo($('#ticker_cont')).slideDown(); });
+}
+setInterval(function(){ tick2() }, 3000);
+
+
+</script>
+
+
+<div id ="contentnews">
+
+
+<ul id="ticker_cont">
+
+
+    <li>
+       <a href = "https://sites.google.com/site/schoolkecarmel/scholastic" target = "_blank"> Glorious Moment of K.E.Carmel Cent Percent result in  both plus two and class 10
+    </li> 
+
+     <li>
+       <a href = "https://sites.google.com/site/schoolkecarmel/scholastic" target = "_blank"> 2102-13 Plus 2 batch made a big success:  14 distinction & 16 first class from total 30, Four of them scored A1 in all subjects.
+    </li>    
+     <li>
+       <a href = "https://sites.google.com/site/schoolkecarmel/scholastic" target = "_blank"> 2102-13 Class X  made a big success: 43 distinction & 51 first class from total 94, Three of them scored A1 in all subjects.
+    </li>    
+    <li>
+         <a href = "https://sites.google.com/site/schoolkecarmel/general" target = "_blank"> Our Principal receives NDTV Teaching Award: A coveted and prestigious honour
+    </li>
+   
+    <li>
+         <a href = "https://sites.google.com/site/schoolkecarmel/general" target = "_blank"> KE Carmel Central School Muhamma, received International school award. A moment  to cherish in the history of KE
+    </li>
+  
+</ul>
+
+</div>
+
+]]></Content>
+</Module>
