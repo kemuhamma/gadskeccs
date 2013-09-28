@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+
+
+  <ModulePrefs title="RecentNewsKECCCS2horiz" description="RecentNewsKECCCS-horizo Scroll3"
+    title_url="http://dailyatheistquote.com" author="NiSYS"
+    thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+    author_email="ni.sys745@gmail.com" height="200" width="300" />
+<Content type="html"><![CDATA[
+<!DOCTYPE html>
+<style type="text/css">
+body {margin:0; padding:0;}
+
+
+#large {display:table-cell; width:600px;  /* The width value should be equal to the largest width value in your images + large image padding:10px. */
+height:500px;  /* i.e. the largest height value in your images + large image padding:10px + caption division height:15px + 20px padding */
+vertical-align:middle; background:#003965;}
+#largeImage {display:block; margin:0 auto; padding:5px;}
+
+
+#caption {width:640px;  /* i.e. large division width:640px - 10px padding */
+height:50px;  /* Allow 15px for each line of caption. */
+padding:5px 5px ; text-align:Center;  overflow-x:hidden; overflow-y:auto; font:20px Verdana; color:#FFFFFF; background:#003965;}
+
+
+
+#caption a {color:inherit; outline:0;}
+#caption a:hover, #caption a:focus {text-decoration:none;}
+#thumbs {width:646px; overflow:auto; background:#003965;}
+ul {list-style:none; margin:0; padding:0; border-spacing:5px;}
+
+li {display:table-cell;}
+li a, li a img {display:block; width:80px; height:60px; border:0;}
+
+li a:hover, li a:focus {outline:3px solid #8b0000;}
+li a.active {outline:3px solid #00ff1c;}
+
+
+
+</style>
+<div id="caption">INVESTITURE CEREMONY 2013 </div> <div id="large"><img id="largeImage" src="https://lh6.googleusercontent.com/-vIIZwXpd7So/UiWoYA2kHVI/AAAAAAAAAFc/0bEacEVOQbk/s640/DSC07149.jpg">
+<div id="thumbs">
+<ul>
+
+
+<!--image #1-->
+<li><a data-text= "SCHOOL CELEBRATED INVESTITURE CEREMONY 2013"
+data-link=" "href="https://lh6.googleusercontent.com/-vIIZwXpd7So/UiWoYA2kHVI/AAAAAAAAAFc/0bEacEVOQbk/s640/DSC07149.jpg"
+
+<img src=https://lh6.googleusercontent.com/-vIIZwXpd7So/UiWoYA2kHVI/AAAAAAAAAFc/0bEacEVOQbk/s144/DSC07149.jpg></a></li>
+
+<!--image #1-->
+<li><a data-text= "PRIME MINISTER'S RELIEF FUND"
+data-link=" "href="https://lh5.googleusercontent.com/-yhT4JF3du18/UfofFDdS-CI/AAAAAAAAAEk/jpiw8JkdAyI/s640/6x4.jpg"
+
+<img src="https://lh5.googleusercontent.com/-yhT4JF3du18/UfofFDdS-CI/AAAAAAAAAEk/jpiw8JkdAyI/s144/6x4.jpg"></a></li>
+
+<!--image #1-->
+<li><a data-text= "FOOD FEST "
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"href="https://lh4.googleusercontent.com/-TcKb4PsOIs4/UbWCEybvFMI/AAAAAAAABso/6hYiMjrDWK4/s640/DSC05047.JPG"
+
+
+<img src="https://lh4.googleusercontent.com/-TcKb4PsOIs4/UbWCEybvFMI/AAAAAAAABso/6hYiMjrDWK4/s144/DSC05047.JPG"></a></li>
+
+
+
+
+
+<!--image #2-->
+<li>  <a data-text="FOOD FEST  Click for more food fest photos ...."
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline" href="https://lh6.googleusercontent.com/-Ld0hks2qHtA/UbWCD-JJbVI/AAAAAAAABsg/aPIHg-LkKOw/s640/DSC05029.JPG">
+<img src="https://lh6.googleusercontent.com/-Ld0hks2qHtA/UbWCD-JJbVI/AAAAAAAABsg/aPIHg-LkKOw/s144/DSC05029.JPG"></a></li>
+
+<!--image #3-->
+<li><a data-text=" Counceling "
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline" href="https://lh4.googleusercontent.com/-t187wL7nkOU/UbWxTdHZ2FI/AAAAAAAABwM/HxrZEfWEVdw/s640/Councelling.jpg"
+
+
+<img src="https://lh4.googleusercontent.com/-t187wL7nkOU/UbWxTdHZ2FI/AAAAAAAABwM/HxrZEfWEVdw/s144/Councelling.jpg"></a></li>
+
+
+
+
+
+<!--image #4-->
+<li><a data-text="DRAWING COMPETITION "
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh6.googleusercontent.com/-pLRhmHvdNHc/URITjiuJxeI/AAAAAAAAAXU/-FYUxwI9fLQ/s800/DSC03819.JPG">
+<img src="https://lh6.googleusercontent.com/-pLRhmHvdNHc/URITjiuJxeI/AAAAAAAAAXU/-FYUxwI9fLQ/s144/DSC03819.JPG"></a></li>
+
+
+
+
+<!--image #5-->
+<li><a data-text="  DRAWING COMPETITION "
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-hw8mWJg-smw/Uba7XBA4MII/AAAAAAAABww/UsxPJS8LV00/s640/vvv.jpg">
+<img src="https://lh3.googleusercontent.com/-hw8mWJg-smw/Uba7XBA4MII/AAAAAAAABww/UsxPJS8LV00/s144/vvv.jpg"></a></li>
+
+
+
+
+<!--image #6-->
+<li><a data-text="  SOCIAL AND CHARITABLE ACTIVITIES "
+data-link="https://sites.google.com/site/schoolkecarmel/co--scholastic#exactline5"  href= "https://lh4.googleusercontent.com/-jCKW3j01Vac/UbWCAs0osaI/AAAAAAAABsE/y2T3tBf7SH0/s640/DSC00581.JPG">
+<img src="https://lh4.googleusercontent.com/-jCKW3j01Vac/UbWCAs0osaI/AAAAAAAABsE/y2T3tBf7SH0/s144/DSC00581.JPG"></a></li>
+
+<!--image #7-->
+<li><a data-text="SOCIAL AND CHARITABLE ACTIVITIES "
+data-link="https://sites.google.com/site/schoolkecarmel/co--scholastic#exactline5"  href= "https://lh3.googleusercontent.com/-TZSccyN8EOg/Uba7XC-Y0PI/AAAAAAAABws/hGyNJyBRBxg/s640/oooo.jpg">
+ <img src="https://lh3.googleusercontent.com/-TZSccyN8EOg/Uba7XC-Y0PI/AAAAAAAABws/hGyNJyBRBxg/s144/oooo.jpg "></a></li>
+
+
+
+
+
+
+
+<!--image #8-->
+<li><a data-text="  ANNUAL DAY CELEBRATIONS SPECIAL GUEST HON.MINISTER:K.B. GANESH KUMAR  "
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-vpanCm3mwUk/UbWCGuGfsrI/AAAAAAAABs8/BzOh0GH2zIc/s640/DSC06594.JPG">
+<img src="https://lh3.googleusercontent.com/-vpanCm3mwUk/UbWCGuGfsrI/AAAAAAAABs8/BzOh0GH2zIc/s144/DSC06594.JPG"></a></li>
+
+
+
+
+<!--image #9-->
+<li><a data-text="  ANNUAL DAY CELEBRATIONS... "
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-S9JyI6l5rdQ/UbWCHBytOqI/AAAAAAAABtA/muxo53XjJxs/s640/DSC06610.JPG">
+<img src="https://lh3.googleusercontent.com/-S9JyI6l5rdQ/UbWCHBytOqI/AAAAAAAABtA/muxo53XjJxs/s144/DSC06610.JPG"></a></li>
+
+
+
+<!--image #10-->
+<li><a data-text="  SCHOOL SENATE "
+data-link="https://sites.google.com/site/schoolkecarmel/school-senate#exactline6"  href= "https://lh5.googleusercontent.com/-1n22Vo-dwdQ/UKXXmUNC9wI/AAAAAAAAALA/K7slMFVID9g/s640/DSC01016.JPG">
+<img src="https://lh5.googleusercontent.com/-1n22Vo-dwdQ/UKXXmUNC9wI/AAAAAAAAALA/K7slMFVID9g/s144/DSC01016.JPG"></a></li>
+
+<!--image #11-->
+<li><a data-text="SPORTS"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline1"  href= "https://lh6.googleusercontent.com/-W-CMu_KbBJA/Uba-DG1zLsI/AAAAAAAABxM/gwzYGFW4caQ/s640/ccc.jpg">
+<img src="https://lh6.googleusercontent.com/-W-CMu_KbBJA/Uba-DG1zLsI/AAAAAAAABxM/gwzYGFW4caQ/s144/ccc.jpg"></a></li>
+
+<!--image #12-->
+<li><a data-text="SPORTS"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline1"  href= "https://lh6.googleusercontent.com/-sO0Ol_Ijm8o/Uba_vQGGmKI/AAAAAAAABxo/473klUNezNk/s640/bbb.jpg">
+ <img src=" https://lh6.googleusercontent.com/-sO0Ol_Ijm8o/Uba_vQGGmKI/AAAAAAAABxo/473klUNezNk/s144/bbb.jpg"></a></li>
+
+<!--image #13-->
+<li><a data-text="INVESTITURE CEREMONY 2012-13"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh6.googleusercontent.com/-EpAWjkMQaY8/UbWCDazvrhI/AAAAAAAABsQ/A1JYuVArZnA/s640/DSC03415.JPG">
+ <img src="https://lh6.googleusercontent.com/-EpAWjkMQaY8/UbWCDazvrhI/AAAAAAAABsQ/A1JYuVArZnA/s144/DSC03415.JPG"></a></li>
+
+<!--image #14-->
+<li><a data-text="INVESTITURE CEREMONY 2012-13"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh4.googleusercontent.com/-SZ8KNM2V4_c/UbWCA65recI/AAAAAAAABsI/Fe14m_ESRz0/s640/DSC03387.JPG">
+ <img src=" https://lh4.googleusercontent.com/-SZ8KNM2V4_c/UbWCA65recI/AAAAAAAABsI/Fe14m_ESRz0/s144/DSC03387.JPG"></a></li>
+
+
+<!--image #15-->
+<li><a data-text="SCHOOL ASSEMBLY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-iViAYgk-gm0/UbWVQ5MK3RI/AAAAAAAABvU/_AxpTOKt5_I/s640/DSC05393.JPG">
+ <img src=" https://lh3.googleusercontent.com/-iViAYgk-gm0/UbWVQ5MK3RI/AAAAAAAABvU/_AxpTOKt5_I/s144/DSC05393.JPG "></a></li>
+
+<!--image #16-->
+<li><a data-text="SCHOOL ASSEMBLY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-iViAYgk-gm0/UbWVQ5MK3RI/AAAAAAAABvU/_AxpTOKt5_I/s640/DSC05393.JPG">
+ <img src=" https://lh3.googleusercontent.com/-iViAYgk-gm0/UbWVQ5MK3RI/AAAAAAAABvU/_AxpTOKt5_I/s144/DSC05393.JPG "></a></li>
+
+
+<!--image #17-->
+<li><a data-text="STUDENTS DAY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh6.googleusercontent.com/-djthsDw3rxY/UbWCb6rBdKI/AAAAAAAABtw/CMW9ImytdiM/s640/DSC04288.JPG">
+ <img src=" https://lh6.googleusercontent.com/-djthsDw3rxY/UbWCb6rBdKI/AAAAAAAABtw/CMW9ImytdiM/s144/DSC04288.JPG "></a></li>
+
+<!--image #18-->
+<li><a data-text="STUDENTS DAY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh4.googleusercontent.com/-mEjJjPSBPSk/UbWXQv5AoKI/AAAAAAAABvw/UU1Dh3Plhjc/s640/DSC04229.JPG">
+ <img src=" https://lh4.googleusercontent.com/-mEjJjPSBPSk/UbWXQv5AoKI/AAAAAAAABvw/UU1Dh3Plhjc/s144/DSC04229.JPG "></a></li>
+
+<!--image #19-->
+<li><a data-text="CLUB ACTIVITIES"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh5.googleusercontent.com/-rbeISTkUtb0/US20ua-iWMI/AAAAAAAAAcA/i7g4Qcoz7RA/s640/DSC04572.JPG">
+ <img src=" https://lh5.googleusercontent.com/-rbeISTkUtb0/US20ua-iWMI/AAAAAAAAAcA/i7g4Qcoz7RA/s144/DSC04572.JPG "></a></li>
+
+<!--image #20-->                                                                                                                            
+
+<li><a data-text="SCIENCE FAIR "
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-ffkpd4cxFXk/US2zXd5cLLI/AAAAAAAAAbw/AEAW0QPY5jA/s640/DSC05398.JPG">
+ <img src=" https://lh3.googleusercontent.com/-ffkpd4cxFXk/US2zXd5cLLI/AAAAAAAAAbw/AEAW0QPY5jA/s144/DSC05398.JPG"></a></li>
+
+<!--image #21-->
+<li><a data-text="KIDS FEST"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh6.googleusercontent.com/-cVXRR6CXz0k/UbWCgiTmU2I/AAAAAAAABus/DwQ6Ri3mz6c/s640/DSCN0341.JPG">
+ <img src=" https://lh6.googleusercontent.com/-cVXRR6CXz0k/UbWCgiTmU2I/AAAAAAAABus/DwQ6Ri3mz6c/s144/DSCN0341.JPG "></a></li>
+
+<!--image #22-->
+<li><a data-text="KIDS FEST"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh4.googleusercontent.com/-61Qkk4Tohls/UbWCg-fDGGI/AAAAAAAABuw/KzIHJmgaZ14/s640/DSCN0363.JPG">
+ <img src=" https://lh4.googleusercontent.com/-61Qkk4Tohls/UbWCg-fDGGI/AAAAAAAABuw/KzIHJmgaZ14/s144/DSCN0363.JPG "></a></li>
+
+<!--image #23-->
+<li><a data-text="WELCOME CEREMONY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh5.googleusercontent.com/-CeDxwjRqQIU/UbWCabs6-3I/AAAAAAAABtY/6OoKH5E2G60/s640/DSC03305.JPG">
+ <img src=" https://lh5.googleusercontent.com/-CeDxwjRqQIU/UbWCabs6-3I/AAAAAAAABtY/6OoKH5E2G60/s144/DSC03305.JPG "></a></li>
+
+<!--image #24-->
+<li><a data-text="ONAM CELEBRATION"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh6.googleusercontent.com/-C2voHY8A9mw/UbhE7lm35vI/AAAAAAAAB5w/BRfV3L-weaA/s640/bbgf.JPG">
+ <img src=" https://lh6.googleusercontent.com/-C2voHY8A9mw/UbhE7lm35vI/AAAAAAAAB5w/BRfV3L-weaA/s144/bbgf.JPG"></a></li>
+
+<!--image #25-->
+<li><a data-text="ONAM CELEBRATION"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh5.googleusercontent.com/-CPWQ4a-906I/UbhEPjHiQOI/AAAAAAAAB5o/QxwpQI2pf2U/s640/DSC04095%25204by3with800X600.jpg">
+ <img src=" https://lh5.googleusercontent.com/-CPWQ4a-906I/UbhEPjHiQOI/AAAAAAAAB5o/QxwpQI2pf2U/s144/DSC04095%25204by3with800X600.jpg "></a></li>
+
+<!--image #26-->
+<li><a data-text="VISITING INTERNATIONAL FACULTY PROGRAM"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-GO7jOwe6w6A/UbWCf3pS3iI/AAAAAAAABug/OKqse1RsMcw/s640/DSCN0191.JPG">
+ <img src=" https://lh3.googleusercontent.com/-GO7jOwe6w6A/UbWCf3pS3iI/AAAAAAAABug/OKqse1RsMcw/s144/DSCN0191.JPG "></a></li>
+
+
+<!--image #27-->
+<li><a data-text="STAR DAY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-aczSvFOf0uQ/UbWCbD1hzeI/AAAAAAAABto/pQlakyxff-U/s640/DSC04272.JPG">
+ <img src=" https://lh3.googleusercontent.com/-aczSvFOf0uQ/UbWCbD1hzeI/AAAAAAAABto/pQlakyxff-U/s144/DSC04272.JPG "></a></li>
+
+
+
+<!--image #28-->
+<li><a data-text="THE ALAPPUZHA SAHODAYA COMPETITIONS"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh5.googleusercontent.com/-Iu3mlFC74qo/UbhMvslWdiI/AAAAAAAAB6U/9f2QlbACnmc/s640/DSCN0057.jpgjpg">
+ <img src=" https://lh5.googleusercontent.com/-Iu3mlFC74qo/UbhMvslWdiI/AAAAAAAAB6U/9f2QlbACnmc/s144/DSCN0057.jpg"></a></li>
+<!--image #29-->
+
+<li><a data-text="THE ALAPPUZHA SAHODAYA COMPETITIONS"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh6.googleusercontent.com/-lo_Edq8BiRs/UbhMvsIPqkI/AAAAAAAAB6c/LpSu70EUWmU/s640/DSCN0067.jpg">
+ <img src=" https://lh6.googleusercontent.com/-lo_Edq8BiRs/UbhMvsIPqkI/AAAAAAAAB6c/LpSu70EUWmU/s144/DSCN0067.jpg"></a></li>
+
+<!--image #30-->
+<li><a data-text="FOUNDER'S DAY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh4.googleusercontent.com/-0uOX2EoSg7I/UbWCec1pUnI/AAAAAAAABuQ/IvTP5std7rA/s640/DSC06244.JPG">
+ <img src=" https://lh4.googleusercontent.com/-0uOX2EoSg7I/UbWCec1pUnI/AAAAAAAABuQ/IvTP5std7rA/s144/DSC06244.JPG"></a></li>
+
+<!--image #31-->
+<li><a data-text="FOUNDER'S DAY"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh3.googleusercontent.com/-Li64GjM8TBE/UbWCfOv9lmI/AAAAAAAABuY/xarr1ScqT7I/s640/DSC06259.JPG">
+ <img src=" https://lh3.googleusercontent.com/-Li64GjM8TBE/UbWCfOv9lmI/AAAAAAAABuY/xarr1ScqT7I/s144/DSC06259.JPG "></a></li>
+
+
+<!--image #32-->
+<li><a data-text="CHRISTMAS CELEBRATION"
+data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"  href= "https://lh4.googleusercontent.com/-QhJA3jai1sg/UbWCdgRodhI/AAAAAAAABuI/hxOI0TrVqUU/s640/DSC06040.JPG">
+ <img src=" https://lh4.googleusercontent.com/-QhJA3jai1sg/UbWCdgRodhI/AAAAAAAABuI/hxOI0TrVqUU/s144/DSC06040.JPG "></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+</div>
+<script type="text/javascript">
+function setImage(el) {
+document.getElementById('largeImage').src = '' + el.href + '';
+}
+function setCaption(el) {
+var caption = document.getElementById('caption');
+var text = el.getAttribute('data-text');
+var link = el.getAttribute('data-link');
+if (link) {
+caption.innerHTML = '<a href="' + link + '" target="_blank">' + text + '<\/a>';}
+else {
+caption.innerHTML = '' + text + '';}
+}
+var links = document.getElementById('thumbs').getElementsByTagName('a');
+function setClass(el) {
+for (var i = 0; i < links.length; i++) {
+links[i].className = '';
+}
+el.className = 'active';
+}
+for (var i = 0; i < links.length; i++) {
+links[i].onclick = function () { setImage(this); setCaption(this);  setClass(this); return false;};
+}
+</script>
+
+]]></Content>
+</Module>
+
+
