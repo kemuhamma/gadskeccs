@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="BlogtickerKECar" description="BlogsUpdates-Vertical Scroll"
+  title_url="http://dailyatheistquote.com" author="NiSYS"
+thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+author_email="ni.sys745@gmail.com" height="200" width="300" />
+
+<Content type="html"><![CDATA[
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<style type="text/css" >
+
+#ticker_cont{
+height: 400px;
+overflow: hidden;
+color:  rgb(0,57,101);
+
+
+}
+
+#ticker_cont li {
+ height: 50px;
+color: rgb(0,57,101);
+font: 12px DejaVu Sans;
+
+}
+
+a:link {
+  color: rgb(0,57,101);
+   background-color: transperant;
+  text-decoration: none ;
+}
+
+
+a:hover {
+  color: rgb(255, 102, 102);
+
+   
+}
+
+body
+{
+background-color: rgb(125,183,234);
+}
+
+
+</style>
+
+<script type="text/javascript">
+
+
+function tick2() {
+$('#ticker_cont li:first').slideUp(function () { $(this).appendTo($('#ticker_cont')).slideDown(); });
+}
+setInterval(function(){ tick2() }, 3000);
+
+
+</script>
+
+
+<div id ="contentnews">
+
+
+<ul id="ticker_cont">
+
+<li>
+        <a href = "
+https://sites.google.com/site/schoolkecarmel/blog/blogfromcomputerdept" target = "_blank">  blog from computer dept.
+    </li>
+
+
+<li>
+        <a href = "
+https://sites.google.com/site/schoolkecarmel/blog/Terminal-exam" target = "_blank">  Principal Desk : Challenge yourself in this  Terminal exam
+    </li>
+<li>
+        <a href = "https://sites.google.com/site/schoolkecarmel/blog/everyendhasanewbeginning" target = "_blank"> Every end has a new beginning
+    </li>
+    <li>
+        <a href = "https://sites.google.com/site/schoolkecarmel/blog/psaexams-preperationguide" target = "_blank"> Important Information for preparing PSA exam by Physics teacher Mrs. XX
+    </li>
+
+    <li>
+         <a href = "https://sites.google.com/site/schoolkecarmel/blog/improveyourmathsskills-anotefrommathsteacher"  target = "_blank" > Maths teacher speaks .....</a>
+    </li>
+    
+</ul>
+
+</div>
+
+]]></Content>
+</Module>
