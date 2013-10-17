@@ -13,7 +13,7 @@
 body {margin:0; padding:0;}
 
 
-#large {display:table-cell; width:600px;  /* The width value should be equal to the largest width value in your images + large image padding:10px. */
+#large {display:table-cell; width:600px;  /* the width value should be equal to the largest width value in your images + large image padding:10px. */
 height:500px;  /* i.e. the largest height value in your images + large image padding:10px + caption division height:15px + 20px padding */
 vertical-align:middle; background:#003965;}
 #largeImage {display:block; margin:0 auto; padding:5px;}
