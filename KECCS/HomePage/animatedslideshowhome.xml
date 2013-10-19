@@ -45,8 +45,6 @@ content+= "<div style='position: absolute;top:0px;left:0px;font-size:" + topBord
 content+= "<div style='position: absolute;top:0px;left:0px;background-color:" + backgroundColor + ";width:2px;height:" + height + "px'>&nbsp;</div>";
 content+= "<div style='position: absolute;top:0px;right:0px;background-color:" + backgroundColor + ";width:2px;height:" + height + "px'>&nbsp;</div>";
 document.getElementById("container").innerHTML = content; 
-var ga = new _IG_GA("UA-17877121-2");
-ga.reportEvent('Slideshow Maker', 'Loaded', document.referrer, 0); 
 </script>
 <html><head><title>Animation</title></head><body style="background-color:transparent;"><div id="container"></body></html>
   
