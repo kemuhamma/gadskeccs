@@ -1,54 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module>
-<ModulePrefs title="Slideshow maker (using Google Slides)" title_url="http://www.steegle.com/websites/google-sites-howtos/docs-presentation-slider-gadget" description="A gadget to add a slick
+<Module><ModulePrefs title="Slideshow maker (using Google Slides)" description="A gadget to add a slick animation, slideshow or slider on a Google Site using a Google Slide." 
 
-animation, slideshow or slider on a Google Site using a Google Slide." thumbnail="https://lh4.googleusercontent.com/-p4Cn_hKyCDs/T-
+author_link="https://plus.google.com/u/0/116263732197316259248/about" author_photo="https://lh5.googleusercontent.com/-jCtTYPxmFpI/AAAAAAAAAAI/AAAAAAAABwI/rhjzYu2nA2Y/s250-c-
 
-M2jT6CDyI/AAAAAAAACko/BfOEJ_uFGqM/s128/1340290679_Slides.png" screenshot="https://lh4.googleusercontent.com/-p4Cn_hKyCDs/T-
+k/photo.jpg" author_email="romain.vialard@gmail.com" author="Romain Vialard" height="200" width="80%" screenshot="https://lh4.googleusercontent.com/-p4Cn_hKyCDs/T-
 
-M2jT6CDyI/AAAAAAAACko/BfOEJ_uFGqM/s128/1340290679_Slides.png" width="80%" height="200" author="Romain Vialard" author_email="romain.vialard@gmail.com"
+M2jT6CDyI/AAAAAAAACko/BfOEJ_uFGqM/s128/1340290679_Slides.png" thumbnail="https://lh4.googleusercontent.com/-p4Cn_hKyCDs/T-
 
-author_photo="https://lh5.googleusercontent.com/-jCtTYPxmFpI/AAAAAAAAAAI/AAAAAAAABwI/rhjzYu2nA2Y/s250-c-k/photo.jpg"
+M2jT6CDyI/AAAAAAAACko/BfOEJ_uFGqM/s128/1340290679_Slides.png" title_url="http://www.steegle.com/websites/google-sites-howtos/docs-presentation-slider-gadget"><Require 
 
-author_link="https://plus.google.com/u/0/116263732197316259248/about">
-<Require feature="com.google.gadgets.analytics"/>
-</ModulePrefs>
-<UserPref name="url" display_name="Link to the presentation" required="true"/>
-<UserPref name="backgroundColor" display_name="The background color of your page" default_value="white" required="true"/>
-<Content type="html"><![CDATA[
- 
-<style type="text/css"> body {background:transparent;} </style> <div id="container"></div>
-<script type="text/javascript">
-var prefs = new gadgets.Prefs();
-var url = prefs.getString("url")+'&';
-var docId = url.match(/id=([^\&]+)&/);
-if(docId != null) docId = docId[1];
-else docId = url.match(/presentation\/d\/([^\/]+)\//)[1];
-var loop = url.match(/loop=([^\&]+)&/)[1];
-var delay = url.match(/delayms=([^\&]+)&/)[1];
-var backgroundColor = prefs.getString("backgroundColor");
-var width = document.body.clientWidth;
-var height = width*4/5;
-var domain = url.match(/a\/[^\/]+\//);
-domain = (domain != null)?domain[0]:"";
-var content = "<iframe width='" + width + "' height='" + height + "' scrolling='no' frameBorder='0' allowtransparency='true' src='https://docs.google.com/" + domain + "presentation/d/" + docId + "/embed?
+feature="com.google.gadgets.analytics"/></ModulePrefs><UserPref name="url" required="true" display_name="Link to the presentation"/><UserPref name="backgroundColor" required="true" 
 
-start=true&loop=" + loop + "&delayms=" + delay + "'><\/iframe>";
-// Hide borders
-var topBorderHeight = 8;
-if(navigator.userAgent.search('Chrome') != -1) topBorderHeight+= 2;
-if(width > 855) {  
-  topBorderHeight+= 4;
-}
-if(navigator.userAgent.search('iPad') != -1) content = "<div style='overflow: auto; background-color:" + backgroundColor +";'>"+ content +"</div>";
-content+= "<div style='position: absolute;top:0px;left:0px;font-size:" + topBorderHeight + "px;background-color:" + backgroundColor + ";width:" + width + "px;height:" + topBorderHeight + "px'></div>";
-content+= "<div style='position: absolute;top:0px;left:0px;background-color:" + backgroundColor + ";width:2px;height:" + height + "px'>&nbsp;</div>";
-content+= "<div style='position: absolute;top:0px;right:0px;background-color:" + backgroundColor + ";width:2px;height:" + height + "px'>&nbsp;</div>";
-document.getElementById("container").innerHTML = content;
-var ga = new _IG_GA("UA-17877121-2");
-ga.reportEvent('Slideshow Maker', 'Loaded', document.referrer, 0); 
-</script>
-<html><head><title>Animation</title></head><body style="background-color:transparent;"><div id="container"></body></html>
- 
-  ]]></Content>
-</Module>
+display_name="The background color of your page" default_value="white"/><Content type="html">
+<![CDATA[ <style type="text/css"> body {background:transparent;} </style> <div id="container"></div> <script type="text/javascript"> var prefs = new gadgets.Prefs(); var url = prefs.getString("url")+'&'; var 
+
+docId = url.match(/id=([^\&]+)&/); if(docId != null) docId = docId[1]; else docId = url.match(/presentation\/d\/([^\/]+)\//)[1]; var loop = url.match(/loop=([^\&]+)&/)[1]; var delay = url.match(/delayms=
+
+([^\&]+)&/)[1]; var backgroundColor = prefs.getString("backgroundColor"); var width = document.body.clientWidth; var height = width*4/5; var domain = url.match(/a\/[^\/]+\//); domain = (domain != 
+
+null)?domain[0]:""; var content = "<iframe width='" + width + "' height='" + height + "' scrolling='no' frameBorder='0' allowtransparency='true' src='https://docs.google.com/" + domain + "presentation/d/" + 
+
+docId + "/embed?start=true&loop=" + loop + "&delayms=" + delay + "'><\/iframe>"; // Hide borders var topBorderHeight = 8; if(navigator.userAgent.search('Chrome') != -1) topBorderHeight+= 2; if(width > 
+
+855) { topBorderHeight+= 4; } if(navigator.userAgent.search('iPad') != -1) content = "<div style='overflow: auto; background-color:" + backgroundColor +";'>"+ content +"</div>"; content+= "<div 
+
+style='position: absolute;top:0px;left:0px;font-size:" + topBorderHeight + "px;background-color:" + backgroundColor + ";width:" + width + "px;height:" + topBorderHeight + "px'></div>"; content+= "<div 
+
+style='position: absolute;top:0px;left:0px;background-color:" + backgroundColor + ";width:2px;height:" + height + "px'>&nbsp;</div>"; content+= "<div style='position: 
+
+absolute;top:0px;right:0px;background-color:" + backgroundColor + ";width:2px;height:" + height + "px'>&nbsp;</div>"; document.getElementById("container").innerHTML = content; var ga = new 
+
+_IG_GA("UA-17877121-2"); ga.reportEvent('Slideshow Maker', 'Loaded', document.referrer, 0); </script> <html><head><title>Animation</title></head><body style="background-color:transparent;"><div 
+
+id="container"></body></html> ]]>
+</Content></Module>
