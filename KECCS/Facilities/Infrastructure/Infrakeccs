@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+
+  <ModulePrefs title="infrastructure" description="infra-horizo Scroll3"
+    title_url="http://dailyatheistquote.com" author="NiSYS"
+    thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+    author_email="ni.sys745@gmail.com" height="200" width="300" />
+<Content type="html"><![CDATA[
+<!DOCTYPE html>
+<style type="text/css">
+body {margin:0; padding:0;}
+
+
+#large {display:table-cell; width:600px;  /* The width value should be equal to the largest width value in your images + large image padding:10px. */
+height:500px;  /* i.e. the largest height value in your images + large image padding:10px + caption division height:15px + 20px padding */
+vertical-align:middle; background:#003965;}
+#largeImage {display:block; margin:0 auto; padding:5px;}
+
+
+#caption {width:640px;  /* i.e. large division width:640px - 10px padding */
+height:50px;  /* Allow 15px for each line of caption. */
+padding:5px 5px ; text-align:center;  overflow-x:hidden; overflow-y:auto; font:15px Verdana; color:#FFFFFF; background:#003965;}
+
+
+
+#caption a {color:inherit; outline:0;}
+#caption a:hover, #caption a:focus {text-decoration:none;}
+#thumbs {width:646px; overflow:auto; background:#003965;}
+ul {list-style:none; margin:0; padding:0; border-spacing:5px;}
+
+li {display:table-cell;}
+li a, li a img {display:block; width:80px; height:60px; border:0;}
+
+li a:hover, li a:focus {outline:3px solid #8b0000;}
+li a.active {outline:3px solid #00ff1c;}
+
+
+</style>
+<div id="caption">INFRASTRUCTURE</div> <div id="large"><img id="largeImage" src="https://lh4.googleusercontent.com/-tbOsoP1Zwv4/Ubq4ZnAzaHI/AAAAAAAAB9A/kw5SuFbZAz8/s640/DSCF2643.jpg">
+<div id="thumbs">
+<ul>
+
+<!--image #1-->
+<li><a data-text="INFRASTRUCTURE"
+
+  href="https://lh4.googleusercontent.com/-tbOsoP1Zwv4/Ubq4ZnAzaHI/AAAAAAAAB9A/kw5SuFbZAz8/s144/DSCF2643.jpg"
+
+class="active">
+<img src="https://lh4.googleusercontent.com/-tbOsoP1Zwv4/Ubq4ZnAzaHI/AAAAAAAAB9A/kw5SuFbZAz8/s144/DSCF2643.jpg"></a></li>
+
+<!--image #2-->
+<li><a data-text="INFRASTRUCTURE"
+ href="https://lh5.googleusercontent.com/-GHiz7eFzcYs/Ubq4a7bPfAI/AAAAAAAAB9I/AEXLW8QIV70/s640/DSCF2644.jpg">
+<img src="https://lh5.googleusercontent.com/-GHiz7eFzcYs/Ubq4a7bPfAI/AAAAAAAAB9I/AEXLW8QIV70/s144/DSCF2644.jpg"></a></li>
+
+<!--image #3-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh4.googleusercontent.com/-aKSmPbHLsVg/Ubq4bTZYMWI/AAAAAAAAB9Q/5McI573EGuw/s640/DSCF2645.jpg">
+<img src="https://lh4.googleusercontent.com/-aKSmPbHLsVg/Ubq4bTZYMWI/AAAAAAAAB9Q/5McI573EGuw/s144/DSCF2645.jpg"></a></li>
+
+<!--image #4-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-9EBYbFOhzEs/Ubq4f4XhI0I/AAAAAAAAB-A/kpnxCrSso5s/s640/IMG_0202.jpg">
+<img src="https://lh3.googleusercontent.com/-9EBYbFOhzEs/Ubq4f4XhI0I/AAAAAAAAB-A/kpnxCrSso5s/s144/IMG_0202.jpg"></a></li>
+
+<!--image #5-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-5fmRQhDkkiU/Ubq4g1G18BI/AAAAAAAAB-M/Bm--lJLzupc/s640/IMG_0203.jpg">
+<img src="https://lh3.googleusercontent.com/-5fmRQhDkkiU/Ubq4g1G18BI/AAAAAAAAB-M/Bm--lJLzupc/s144/IMG_0203.jpg"></a></li>
+
+
+<!--image #6-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh5.googleusercontent.com/-YBYYCCowbmg/Ubq4hC_G-cI/AAAAAAAAB-Q/hq4xYhbpSYg/s640/IMG_0204.jpg">
+<img src="https://lh5.googleusercontent.com/-YBYYCCowbmg/Ubq4hC_G-cI/AAAAAAAAB-Q/hq4xYhbpSYg/s144/IMG_0204.jpg"></a></li>
+
+<!--image #7-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-zQbcN-wBlPc/Ubq4hu02BQI/AAAAAAAAB-Y/GGK1GoY4KUk/s640/IMG_0205.jpg">
+<img src="https://lh3.googleusercontent.com/-zQbcN-wBlPc/Ubq4hu02BQI/AAAAAAAAB-Y/GGK1GoY4KUk/s144/IMG_0205.jpg"></a></li>
+
+<!--image #8-->
+<li><a data-text=" INFRASTRUCTURE"
+ href="https://lh5.googleusercontent.com/-6Ba4SlarQA0/Ubq4iiwYhpI/AAAAAAAAB-k/YjSXsebzrEI/s640/IMG_0207.jpg">
+<img src="https://lh5.googleusercontent.com/-6Ba4SlarQA0/Ubq4iiwYhpI/AAAAAAAAB-k/YjSXsebzrEI/s144/IMG_0207.jpg"></a></li>
+
+<!--image #9-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh6.googleusercontent.com/-LFLSU6avuCc/Ubq4i9xUR-I/AAAAAAAAB-o/SrrClr2N7lU/s640/IMG_1581.jpg">
+<img src="https://lh6.googleusercontent.com/-LFLSU6avuCc/Ubq4i9xUR-I/AAAAAAAAB-o/SrrClr2N7lU/s144/IMG_1581.jpg"></a></li>
+
+<!--image #10-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-E6sGjEhxusg/Ubq4jR1HlYI/AAAAAAAAB-w/wGjNm7nPOaM/s640/IMG_1583.jpg">
+<img src="https://lh3.googleusercontent.com/-E6sGjEhxusg/Ubq4jR1HlYI/AAAAAAAAB-w/wGjNm7nPOaM/s144/IMG_1583.jpg"></a></li>
+
+<!--image #11-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh6.googleusercontent.com/-aomp7_B0VYk/Ubq4j1iYJEI/AAAAAAAAB-8/84qmTdyGLfM/s640/KE%2520carmel.jpg">
+<img src="https://lh6.googleusercontent.com/-aomp7_B0VYk/Ubq4j1iYJEI/AAAAAAAAB-8/84qmTdyGLfM/s144/KE%2520carmel.jpg"></a></li>
+
+<!--image #12-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-cZVTOuhPflE/Ubq4fL_gVZI/AAAAAAAAB94/kXZEwjSwhmM/s640/DSCF3797.jpg">
+<img src="https://lh3.googleusercontent.com/-cZVTOuhPflE/Ubq4fL_gVZI/AAAAAAAAB94/kXZEwjSwhmM/s144/DSCF3797.jpg"></a></li>
+
+<!--image #13-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh4.googleusercontent.com/-x0d0GBWV6xQ/Ubq4erjPbWI/AAAAAAAAB90/bzILvaazyl4/s640/DSCF3796.jpg">
+<img src="https://lh4.googleusercontent.com/-x0d0GBWV6xQ/Ubq4erjPbWI/AAAAAAAAB90/bzILvaazyl4/s144/DSCF3796.jpg"></a></li>
+
+<!--image #14-->
+<li><a data-text=" INFRASTRUCTURE"
+ href="https://lh6.googleusercontent.com/-o6GEJyYel8Q/Ubq4dw9A6TI/AAAAAAAAB9o/mAowGN78H08/s640/DSCF2648.jpg">
+<img src="https://lh6.googleusercontent.com/-o6GEJyYel8Q/Ubq4dw9A6TI/AAAAAAAAB9o/mAowGN78H08/s144/DSCF2648.jpg"></a></li>
+
+<!--image #15-->
+<li><a data-text="INFRASTRUCTURE"
+ href="https://lh6.googleusercontent.com/-D30NbO55YGM/Ubq4cnb5mDI/AAAAAAAAB9g/GwTF0D_gB_s/s640/DSCF2647.jpg">
+<img src="https://lh6.googleusercontent.com/-D30NbO55YGM/Ubq4cnb5mDI/AAAAAAAAB9g/GwTF0D_gB_s/s144/DSCF2647.jpg"></a></li>
+
+<!--image #16-->
+<li><a data-text="INFRASTRUCTURE"
+ href="https://lh4.googleusercontent.com/-Ox3DXpsU3w4/Ubq4cG2hWqI/AAAAAAAAB9Y/OT9OQK3gKAE/s640/DSCF2646.jpg">
+<img src="https://lh4.googleusercontent.com/-Ox3DXpsU3w4/Ubq4cG2hWqI/AAAAAAAAB9Y/OT9OQK3gKAE/s144/DSCF2646.jpg"></a></li>
+
+<!--image #17-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-gGoY6E_VK-Q/Ubq4ZKdgc_I/AAAAAAAAB84/G0w3a8u9MeI/s640/DSCF2632.jpg">
+<img src="https://lh3.googleusercontent.com/-gGoY6E_VK-Q/Ubq4ZKdgc_I/AAAAAAAAB84/G0w3a8u9MeI/s144/DSCF2632.jpg"></a></li>
+
+
+<!--image #18-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-pPRcbIyB-PY/Ubq4Y9thH7I/AAAAAAAAB80/dZ6NLCyvogQ/s640/DSCF2631.jpg">
+<img src="https://lh3.googleusercontent.com/-pPRcbIyB-PY/Ubq4Y9thH7I/AAAAAAAAB80/dZ6NLCyvogQ/s144/DSCF2631.jpg"></a></li>
+
+
+<li><a data-text=" ITS OWN WATER TREATMENT PLANTS "
+ href="https://lh5.googleusercontent.com/-tylYaFjYelg/Ubq4mygPGrI/AAAAAAAAB_Q/C8TtFIxRTkA/s640/school-garden.jpg">
+<img src="https://lh5.googleusercontent.com/-tylYaFjYelg/Ubq4mygPGrI/AAAAAAAAB_Q/C8TtFIxRTkA/s144/school-garden.jpg"></a></li>
+
+<!--image #19-->
+<li><a data-text=" EXCELLENT TRASNSPORT FACILTY "
+ href="https://lh5.googleusercontent.com/-9USRPOAczuk/Ubq4kT5J1AI/AAAAAAAAB_E/fvgcLx-7Gm4/s640/P1020240.jpg"
+<img src="https://lh5.googleusercontent.com/-9USRPOAczuk/Ubq4kT5J1AI/AAAAAAAAB_E/fvgcLx-7Gm4/s144/P1020240.jpg"></a></li>
+
+
+<!--image #20-->
+<li><a data-text=" MULTIPURPOSE AUDITORIUM "
+ href="https://lh3.googleusercontent.com/-nUbiHHAcZ44/Ubq4Ym7aXlI/AAAAAAAAB8s/X01PQwOUcvY/s640/DSCF0863.jpg"
+<img src="https://lh3.googleusercontent.com/-nUbiHHAcZ44/Ubq4Ym7aXlI/AAAAAAAAB8s/X01PQwOUcvY/s144/DSCF0863.jpg"></a></li>
+
+</ul>
+</div>
+<script type="text/javascript">
+function setImage(el) {
+document.getElementById('largeImage').src = '' + el.href + '';
+}
+function setCaption(el) {
+var caption = document.getElementById('caption');
+var text = el.getAttribute('data-text');
+var link = el.getAttribute('data-link');
+if (link) {
+caption.innerHTML = '<a href="' + link + '" target="_blank">' + text + '<\/a>';}
+else {
+caption.innerHTML = '' + text + '';}
+}
+var links = document.getElementById('thumbs').getElementsByTagName('a');
+function setClass(el) {
+for (var i = 0; i < links.length; i++) {
+links[i].className = '';
+}
+el.className = 'active';
+}
+for (var i = 0; i < links.length; i++) {
+links[i].onclick = function () { setImage(this); setCaption(this);  setClass(this); return false;};
+}
+</script>
+
+]]></Content>
+</Module>
