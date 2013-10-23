@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+
+  <ModulePrefs title="Coscholastichorizo" description="Coscholastic-horizo Scroll3"
+    title_url="http://dailyatheistquote.com" author="NiSYS"
+    thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+    author_email="ni.sys745@gmail.com" height="200" width="300" />
+<Content type="html"><![CDATA[
+<!DOCTYPE html>
+<style type="text/css">
+body {margin:0; padding:0;}
+
+
+#large {display:table-cell; width:600px;  /* The width value should be equal to the largest width value in your images + large image 
+
+padding:10px. */
+height:500px;  /* i.e. the largest height value in your images + large image padding:10px + caption division height:15px + 20px 
+
+padding */
+vertical-align:middle; background:#003965;}
+#largeImage {display:block; margin:0 auto; padding:5px;}
+
+
+#caption {width:640px;  /* i.e. large division width:640px - 10px padding */
+height:50px;  /* Allow 15px for each line of caption. */
+padding:5px 5px ; text-align:left;  overflow-x:hidden; overflow-y:auto; font:15px Verdana; color:#FFFFFF; background:#003965;}
+
+
+
+#caption a {color:inherit; outline:0;}
+#caption a:hover, #caption a:focus {text-decoration:none;}
+#thumbs {width:646px; overflow:auto; background:#003965;}
+ul {list-style:none; margin:0; padding:0; border-spacing:5px;}
+
+li {display:table-cell;}
+li a, li a img {display:block; width:80px; height:60px; border:0;}
+
+li a:hover, li a:focus {outline:3px solid #8b0000;}
+li a.active {outline:3px solid #00ff1c;}
+
+
+</style>
+<div id="caption">CO-SCHOLASTIC</div> <div id="large"><img id="largeImage" src="https://lh4.googleusercontent.com/-
+
+YjZCtnYscDY/URH7zS6FkiI/AAAAAAAAATo/cH5CYWCfbAo/s640/DSC00578.JPG">
+<div id="thumbs">
+<ul>
+
+<!--image #1-->
+<li><a data-text=" CO-SCHOLASTIC"
+href="https://lh4.googleusercontent.com/-YjZCtnYscDY/URH7zS6FkiI/AAAAAAAAATo/cH5CYWCfbAo/s640/DSC00578.JPG"
+
+class="active">
+<img src="https://lh4.googleusercontent.com/-
+
+YjZCtnYscDY/URH7zS6FkiI/AAAAAAAAATo/cH5CYWCfbAo/s144/DSC00578.JPG"></a></li>
+
+<!--image #2-->
+<li><a data-text=" CO-SCHOLASTIC "
+ href="https://lh3.googleusercontent.com/-F_p0sLn7amQ/URH7mHgtZsI/AAAAAAAAATY/uVb42K1M6tQ/s640/DSC00575.JPG">
+<img src="https://lh3.googleusercontent.com/-
+
+F_p0sLn7amQ/URH7mHgtZsI/AAAAAAAAATY/uVb42K1M6tQ/s144/DSC00575.JPG"></a></li>
+
+
+
+
+
+<!--image #3-->
+<li><a data-text=" CO-SCHOLASTIC"
+ href="https://lh6.googleusercontent.com/-lv6w8jOniPI/URH7ty_RFqI/AAAAAAAAATg/LKweqQBEMLk/s640/DSC00584.JPG">
+<img src="https://lh6.googleusercontent.com/-
+
+lv6w8jOniPI/URH7ty_RFqI/AAAAAAAAATg/LKweqQBEMLk/s144/DSC00584.JPG"></a></li>
+
+<!--image #4-->
+<li><a data-text="  CO-SCHOLASTIC"
+ href="https://lh3.googleusercontent.com/-n_gLI5-n1B0/URH8-rT76XI/AAAAAAAAAT8/lnWGCU5do2I/s640/DSC00576.JPG">
+<img src="https://lh3.googleusercontent.com/-n_gLI5-n1B0/URH8-
+
+rT76XI/AAAAAAAAAT8/lnWGCU5do2I/s144/DSC00576.JPG"></a></li>
+
+
+
+
+<!--image #5-->
+<li><a data-text="  CO-SCHOLASTIC  "
+  href="https://lh3.googleusercontent.com/-kzyrpBzJL8A/URH9O71iaUI/AAAAAAAAAUM/sNyOs1dBa3U/s640/DSC00581.JPG">
+<img src="https://lh3.googleusercontent.com/-
+
+kzyrpBzJL8A/URH9O71iaUI/AAAAAAAAAUM/sNyOs1dBa3U/s144/DSC00581.JPG"></a></li>
+
+
+
+
+<!--image #6-->
+<li><a data-text=" CO-SCHOLASTIC "
+ href="https://lh5.googleusercontent.com/--s4ijk5kVDo/UTXLpqEJjpI/AAAAAAAAA9I/TmqaDBPs-WA/s640/DSC06292.JPG">
+<img src="https://lh5.googleusercontent.com/--s4ijk5kVDo/UTXLpqEJjpI/AAAAAAAAA9I/TmqaDBPs-
+
+WA/s144/DSC06292.JPG"></a></li>
+
+<!--image #7-->
+<li><a data-text=" CO-SCHOLASTIC "
+ href="https://lh6.googleusercontent.com/-qlvkiJBMoCY/UTXC8GcI-5I/AAAAAAAAA60/70k4aiBIpuw/s640/DSC05252.JPG">
+<img src="https://lh6.googleusercontent.com/-qlvkiJBMoCY/UTXC8GcI-
+
+5I/AAAAAAAAA60/70k4aiBIpuw/s144/DSC05252.JPG"></a></li>
+
+
+<!--image #8-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh5.googleusercontent.com/-m_UPaigS0Q4/UTWlwMFDAeI/AAAAAAAAAwI/FcPMLxy3-F0/s640/DSC04570.JPG">
+<img src="https://lh5.googleusercontent.com/-m_UPaigS0Q4/UTWlwMFDAeI/AAAAAAAAAwI/FcPMLxy3-
+
+F0/s144/DSC04570.JPG"></a></li>
+
+<!--image #9-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION  "
+ href="https://lh6.googleusercontent.com/-q6TV9b4gzYg/UTWl0u2KEoI/AAAAAAAAAwQ/CpSBZSfg3YI/s640/DSC04572.JPG">
+<img src="https://lh6.googleusercontent.com/-
+
+q6TV9b4gzYg/UTWl0u2KEoI/AAAAAAAAAwQ/CpSBZSfg3YI/s144/DSC04572.JPG"></a></li>
+
+<!--image #10-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh3.googleusercontent.com/-lM0WXqcFwxw/UTWl8ROAalI/AAAAAAAAAwc/0atZcMNtMD4/s640/DSC04576.JPG">
+<img src="https://lh3.googleusercontent.com/-
+
+lM0WXqcFwxw/UTWl8ROAalI/AAAAAAAAAwc/0atZcMNtMD4/s144/DSC04576.JPG"></a></li>
+
+<!--image #11-->
+<li><a data-text="CO-SCHOLASTIC: MATHS CLUB EXHIBITION  "
+ href="https://lh5.googleusercontent.com/-S6oRaNvhqK8/UTWnNRgCVHI/AAAAAAAAAws/BrjYfG1vaiU/s640/DSC04578.JPG">
+<img src="https://lh5.googleusercontent.com/-
+
+S6oRaNvhqK8/UTWnNRgCVHI/AAAAAAAAAws/BrjYfG1vaiU/s144/DSC04578.JPG"></a></li>
+
+<!--image #12-->
+<li><a data-text="CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh4.googleusercontent.com/-M8ppy3pMmpc/UTWnPuTMfjI/AAAAAAAAAw0/hXqAv-UtrjM/s640/DSC04583.JPG">
+<img src="https://lh4.googleusercontent.com/-M8ppy3pMmpc/UTWnPuTMfjI/AAAAAAAAAw0/hXqAv-
+
+UtrjM/s144/DSC04583.JPG"></a></li>
+
+<!--image #13-->
+<li><a data-text="CO-SCHOLASTIC: MATHS CLUB EXHIBITION  "
+ href="https://lh3.googleusercontent.com/--PaH18gNooE/UTWnWYg8YaI/AAAAAAAAAw8/ihozVKcMO3A/s640/DSC04584.JPG">
+<img src="https://lh3.googleusercontent.com/--
+
+PaH18gNooE/UTWnWYg8YaI/AAAAAAAAAw8/ihozVKcMO3A/s144/DSC04584.JPG"></a></li>
+
+<!--image #14-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh3.googleusercontent.com/-CKUJp9uMA6M/UTWoxA1hUfI/AAAAAAAAAxc/S1Q32MLygm0/s640/DSC04587.JPG">
+<img src="https://lh3.googleusercontent.com/-
+
+CKUJp9uMA6M/UTWoxA1hUfI/AAAAAAAAAxc/S1Q32MLygm0/s144/DSC04587.JPG"></a></li>
+
+<!--image #15-->
+<li><a data-text="CO-SCHOLASTIC: MAATHS CLUB EXHIBITION "
+ href="https://lh4.googleusercontent.com/-0N4Q1-_eNT0/UTWoxrQI5gI/AAAAAAAAAxg/a_3YmN2qXYg/s640/DSC04589.JPG">
+<img src="https://lh4.googleusercontent.com/-0N4Q1-
+
+_eNT0/UTWoxrQI5gI/AAAAAAAAAxg/a_3YmN2qXYg/s144/DSC04589.JPG"></a></li>
+
+<!--image #16-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh6.googleusercontent.com/-jmoB5SBhuwQ/UTWow-gt9sI/AAAAAAAAAxQ/A-kkFSqJrdc/s640/DSC04590.JPG">
+<img src="https://lh6.googleusercontent.com/-jmoB5SBhuwQ/UTWow-gt9sI/AAAAAAAAAxQ/A-
+
+kkFSqJrdc/s144/DSC04590.JPG"></a></li>
+
+<!--image #17-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh6.googleusercontent.com/-hJBPwoYUZPY/UTm6mFgg-
+
+hI/AAAAAAAABZQ/vZ24WFw4MpY/s400/DSC04596.JPG">
+<img src="https://lh6.googleusercontent.com/-hJBPwoYUZPY/UTm6mFgg-
+
+hI/AAAAAAAABZQ/vZ24WFw4MpY/s144/DSC04596.JPG"></a></li>
+
+<!--image #18-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh6.googleusercontent.com/-hJBPwoYUZPY/UTm6mFgg-
+
+hI/AAAAAAAABZQ/vZ24WFw4MpY/s400/DSC04596.JPG">
+
+<!--image22 #19-->
+<li><a data-text=" CO-SCHOLASTIC: MATHS CLUB EXHIBITION "
+ href="https://lh6.googleusercontent.com/-hJBPwoYUZPY/UTm6mFgg-
+
+hI/AAAAAAAABZQ/vZ24WFw4MpY/s400/DSC04596.JPG">
+<img src="https://lh6.googleusercontent.com/-hJBPwoYUZPY/UTm6mFgg-
+
+hI/AAAAAAAABZQ/vZ24WFw4MpY/s144/DSC04596.JPG"></a></li>
+
+<!--image #20-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh4.googleusercontent.com/-
+
+HOp6dV1peOU/UTWrgW01wpI/AAAAAAAAAyg/A0mhLwwcLWA/s640/DSC05387.JPG">
+<img src="https://lh4.googleusercontent.com/-
+
+HOp6dV1peOU/UTWrgW01wpI/AAAAAAAAAyg/A0mhLwwcLWA/s144/DSC05387.JPG"></a></li>
+
+<!--image #21-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh4.googleusercontent.com/-t-VMHunGWoM/UTWresx4ieI/AAAAAAAAAyY/3BabRqWuSRI/s640/DSC05442.JPG">
+<img src="https://lh4.googleusercontent.com/-t-
+
+VMHunGWoM/UTWresx4ieI/AAAAAAAAAyY/3BabRqWuSRI/s144/DSC05442.JPG"></a></li>
+
+<!--image #22-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh4.googleusercontent.com/-gFnGR87N66I/UTWroqCEzkI/AAAAAAAAAyo/cTuYjMjuzLE/s640/DSC05450.JPG">
+<img src="https://lh4.googleusercontent.com/-
+
+gFnGR87N66I/UTWroqCEzkI/AAAAAAAAAyo/cTuYjMjuzLE/s144/DSC05450.JPG"></a></li>
+
+
+<!--image #23-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh5.googleusercontent.com/-e5KFC5wuObA/UTWtMdbK31I/AAAAAAAAAzM/kbhXqjRFHfY/s640/DSC05461.JPG">
+<img src="https://lh5.googleusercontent.com/-
+
+e5KFC5wuObA/UTWtMdbK31I/AAAAAAAAAzM/kbhXqjRFHfY/s144/DSC05461.JPG"></a></li>
+
+<!--image #24-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh6.googleusercontent.com/-T0L0VvU7qOQ/UTWvybCHiYI/AAAAAAAAA0M/82J-LoWfu1c/s144/DSC05498.JPG">
+<img src="https://lh6.googleusercontent.com/-T0L0VvU7qOQ/UTWvybCHiYI/AAAAAAAAA0M/82J-
+
+LoWfu1c/s144/DSC05498.JPG"></a></li>
+
+<!--image #25-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh3.googleusercontent.com/-h3T7KYk5eck/UTWwDrzb2DI/AAAAAAAAA0U/C5es7pJmjcg/s640/DSC05500.JPG">
+<img src="https://lh3.googleusercontent.com/-
+
+h3T7KYk5eck/UTWwDrzb2DI/AAAAAAAAA0U/C5es7pJmjcg/s144/DSC05500.JPG"></a></li>
+
+<!--image #26-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh6.googleusercontent.com/-f9jQHPDFE74/UTWyscPP9qI/AAAAAAAAA1U/E-SIp146Qs0/s640/DSC05517.JPG">
+<img src="https://lh6.googleusercontent.com/-f9jQHPDFE74/UTWyscPP9qI/AAAAAAAAA1U/E-
+
+SIp146Qs0/s144/DSC05517.JPG"></a></li>
+
+<!--image #27-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh6.googleusercontent.com/-U816Wcoz5qM/UTWzewIBH8I/AAAAAAAAA1o/gu-21WZCTuQ/s144/DSC05548.JPG">
+<img src="https://lh3.googleusercontent.com/-
+
+J3v1hSHscyM/UTWyxArV9dI/AAAAAAAAA1c/vW68q8xDFug/s144/DSC05547.JPG"></a></li>
+
+<!--image #28-->
+<li><a data-text=" CO-SCHOLASTIC: SCIENCE FAIR 2012 "
+ href="https://lh5.googleusercontent.com/-Iw0EO4XzK9k/UTWzi50ULhI/AAAAAAAAA1w/rGJwlpUQJ0w/s640/DSC05553.JPG">
+<img src="https://lh5.googleusercontent.com/-
+
+Iw0EO4XzK9k/UTWzi50ULhI/AAAAAAAAA1w/rGJwlpUQJ0w/s144/DSC05553.JPG"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+</div>
+<script type="text/javascript">
+function setImage(el) {
+document.getElementById('largeImage').src = '' + el.href + '';
+}
+function setCaption(el) {
+var caption = document.getElementById('caption');
+var text = el.getAttribute('data-text');
+var link = el.getAttribute('data-link');
+if (link) {
+caption.innerHTML = '<a href="' + link + '" target="_blank">' + text + '<\/a>';}
+else {
+caption.innerHTML = '' + text + '';}
+}
+var links = document.getElementById('thumbs').getElementsByTagName('a');
+function setClass(el) {
+for (var i = 0; i < links.length; i++) {
+links[i].className = '';
+}
+el.className = 'active';
+}
+for (var i = 0; i < links.length; i++) {
+links[i].onclick = function () { setImage(this); setCaption(this);  setClass(this); return false;};
+}
+</script>
+
+]]></Content>
+</Module>
