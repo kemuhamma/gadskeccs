@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+
+  <ModulePrefs title="sportskeccs" description="sports-horizo Scroll3"
+    title_url="http://dailyatheistquote.com" author="NiSYS"
+    thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+    author_email="ni.sys745@gmail.com" height="200" width="300" />
+<Content type="html"><![CDATA[
+<!DOCTYPE html>
+<style type="text/css">
+body {margin:0; padding:0;}
+
+
+#large {display:table-cell; width:600px;  /* The width value should be equal to the largest width value in your images + large image 
+
+padding:10px. */
+height:500px;  /* i.e. the largest height value in your images + large image padding:10px + caption division height:15px + 20px 
+
+padding */
+vertical-align:middle; background:#003965;}
+#largeImage {display:block; margin:0 auto; padding:5px;}
+
+
+#caption {width:640px;  /* i.e. large division width:640px - 10px padding */
+height:50px;  /* Allow 15px for each line of caption. */
+padding:5px 5px ; text-align:center;  overflow-x:hidden; overflow-y:auto; font:15px Verdana; color:#FFFFFF; background:#003965;}
+
+
+
+#caption a {color:inherit; outline:0;}
+#caption a:hover, #caption a:focus {text-decoration:none;}
+#thumbs {width:646px; overflow:auto; background:#003965;}
+ul {list-style:none; margin:0; padding:0; border-spacing:5px;}
+
+li {display:table-cell;}
+li a, li a img {display:block; width:80px; height:60px; border:0;}
+
+li a:hover, li a:focus {outline:3px solid #8b0000;}
+li a.active {outline:3px solid #00ff1c;}
+
+
+</style>
+<div id="caption">INFRASTRUCTURE</div> <div id="large"><img id="largeImage" src="https://lh4.googleusercontent.com/-
+
+nyazZ202Yq4/Ubq5C5EG4gI/AAAAAAAACAQ/IW2HME7U3kM/s640/DSC06309.jpg">
+<div id="thumbs">
+<ul>
+
+<!--image #1-->
+<li><a data-text="INFRASTRUCTURE"
+
+  href="https://lh4.googleusercontent.com/-nyazZ202Yq4/Ubq5C5EG4gI/AAAAAAAACAQ/IW2HME7U3kM/s640/DSC06309.jpg"
+
+
+<img src="https://lh4.googleusercontent.com/-
+
+nyazZ202Yq4/Ubq5C5EG4gI/AAAAAAAACAQ/IW2HME7U3kM/s144/DSC06309.jpg"></a></li>
+
+<!--image #2-->
+<li><a data-text="INFRASTRUCTURE"
+ href="https://lh5.googleusercontent.com/-BBfJF25bueA/Ubq5EaJp7FI/AAAAAAAACAY/HmfJ8e541nk/s640/DSC06310.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+BBfJF25bueA/Ubq5EaJp7FI/AAAAAAAACAY/HmfJ8e541nk/s144/DSC06310.jpg"></a></li>
+
+<!--image #3-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh6.googleusercontent.com/-HOZ4XK40Sgo/Ubq5FortCzI/AAAAAAAACAg/SOJAZDhXERs/s640/DSC06313.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+HOZ4XK40Sgo/Ubq5FortCzI/AAAAAAAACAg/SOJAZDhXERs/s144/DSC06313.jpg"></a></li>
+
+<!--image #4-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh6.googleusercontent.com/-IjE2twY8W5g/Ubq5KsSV0aI/AAAAAAAACBA/0cI6Py8w3w8/s640/DSC06314.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+IjE2twY8W5g/Ubq5KsSV0aI/AAAAAAAACBA/0cI6Py8w3w8/s144/DSC06314.jpg"></a></li>
+
+<!--image #5-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh4.googleusercontent.com/-Ui0eQdNHbXI/Ubq4_Ei9JrI/AAAAAAAAB_o/RNTFKG6S16o/s640/DSC06304.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+Ui0eQdNHbXI/Ubq4_Ei9JrI/AAAAAAAAB_o/RNTFKG6S16o/s144/DSC06304.jpg"></a></li>
+
+
+<!--image #6-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh5.googleusercontent.com/-JuYAQ7ZiS7w/Ubq5B1jXHHI/AAAAAAAACAA/uTkiVZDLXbY/s640/DSC06305.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+JuYAQ7ZiS7w/Ubq5B1jXHHI/AAAAAAAACAA/uTkiVZDLXbY/s144/DSC06305.jpg"></a></li>
+
+<!--image #7-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh5.googleusercontent.com/-fuJU6KDnhpI/Ubq5CQFZ-sI/AAAAAAAACAI/CBQ48sWnO9I/s640/DSC06306.jpg">
+<img src="https://lh5.googleusercontent.com/-fuJU6KDnhpI/Ubq5CQFZ-
+
+sI/AAAAAAAACAI/CBQ48sWnO9I/s144/DSC06306.jpg"></a></li>
+
+<!--image #8-->
+<li><a data-text=" INFRASTRUCTURE"
+ href="https://lh4.googleusercontent.com/--_hnGKguOds/UbrrN-qeGYI/AAAAAAAACOA/f0cWOiIg2go/s640/DSC06307.jpg">
+<img src="https://lh4.googleusercontent.com/--_hnGKguOds/UbrrN-
+
+qeGYI/AAAAAAAACOA/f0cWOiIg2go/s144/DSC06307.jpg"></a></li>
+
+<!--image #9-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh5.googleusercontent.com/-py-99u3HTu8/Ubq5HwcjD4I/AAAAAAAACAo/THZVMu5cKSA/s640/DSC06343.jpg">
+<img src="https://lh5.googleusercontent.com/-py-
+
+99u3HTu8/Ubq5HwcjD4I/AAAAAAAACAo/THZVMu5cKSA/s144/DSC06343.jpg"></a></li>
+
+<!--image #10-->
+<li><a data-text="INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-bKIOXVSFL8Y/Ubq5IgHq8WI/AAAAAAAACAw/58l2u5gBIbQ/s640/DSC06390.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+bKIOXVSFL8Y/Ubq5IgHq8WI/AAAAAAAACAw/58l2u5gBIbQ/s144/DSC06390.jpg"></a></li>
+
+<!--image #11-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh5.googleusercontent.com/-RIDYgpN4O9Q/Ubq5KtOcYOI/AAAAAAAACA8/TAR5yBFUQho/s640/DSC06423.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+RIDYgpN4O9Q/Ubq5KtOcYOI/AAAAAAAACA8/TAR5yBFUQho/s144/DSC06423.jpg"></a></li>
+
+<!--image #12-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh3.googleusercontent.com/-M_C55I3rS1o/Ubq5LJCIY3I/AAAAAAAACBM/JYpsOvod0VQ/s640/DSC_0584.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+M_C55I3rS1o/Ubq5LJCIY3I/AAAAAAAACBM/JYpsOvod0VQ/s144/DSC_0584.jpg"></a></li>
+
+<!--image #13-->
+<li><a data-text=" INFRASTRUCTURE "
+ href="https://lh4.googleusercontent.com/-IrIgHL7fAPk/Ubq5NgN7w7I/AAAAAAAACBg/jZqdvy3k3Mg/s640/DSC_0585.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+IrIgHL7fAPk/Ubq5NgN7w7I/AAAAAAAACBg/jZqdvy3k3Mg/s144/DSC_0585.jpg"></a></li>
+
+<!--image #14-->
+<li><a data-text=" INFRASTRUCTURE"
+ href="https://lh6.googleusercontent.com/-QQ8QeAiGRk4/Ubq5NUuyVBI/AAAAAAAACBc/4JOEuJ43mpE/s640/DSC_0591.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+QQ8QeAiGRk4/Ubq5NUuyVBI/AAAAAAAACBc/4JOEuJ43mpE/s144/DSC_0591.jpg"></a></li>
+
+<!--image #15-->
+<li><a data-text="INFRASTRUCTURE"
+ href="https://lh6.googleusercontent.com/-3-Xc1BiSjUw/Ubq5OAqvFnI/AAAAAAAACBk/ozj3li8jxm0/s640/DSC_0601.jpg">
+<img src="https://lh6.googleusercontent.com/-3-
+
+Xc1BiSjUw/Ubq5OAqvFnI/AAAAAAAACBk/ozj3li8jxm0/s144/DSC_0601.jpg"></a></li>
+
+
+
+
+
+
+</ul>
+</div>
+<script type="text/javascript">
+function setImage(el) {
+document.getElementById('largeImage').src = '' + el.href + '';
+}
+function setCaption(el) {
+var caption = document.getElementById('caption');
+var text = el.getAttribute('data-text');
+var link = el.getAttribute('data-link');
+if (link) {
+caption.innerHTML = '<a href="' + link + '" target="_blank">' + text + '<\/a>';}
+else {
+caption.innerHTML = '' + text + '';}
+}
+var links = document.getElementById('thumbs').getElementsByTagName('a');
+function setClass(el) {
+for (var i = 0; i < links.length; i++) {
+links[i].className = '';
+}
+el.className = 'active';
+}
+for (var i = 0; i < links.length; i++) {
+links[i].onclick = function () { setImage(this); setCaption(this);  setClass(this); return false;};
+}
+</script>
+
+]]></Content>
+</Module>
