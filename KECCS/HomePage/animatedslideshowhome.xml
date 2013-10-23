@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="Slideshow maker (using Google Slides)" title_url="http://www.steegle.com/websites/google-sites-howtos/docs-presentation-slider-gadget" description="A gadget to add a slick 
-
-animation, slideshow or slider on a Google Site using a Google Slide." thumbnail="https://lh4.googleusercontent.com/-p4Cn_hKyCDs/T-
-
+<ModulePrefs title="Slideshow maker (using Google Slides)" title_url="http://www.steegle.com/websites/google-sites-howtos/docs-presentation-slider-gadget" description="A gadget to add a slick animation, slideshow or slider on a Google Site using a Google Slide." thumbnail="https://lh4.googleusercontent.com/-p4Cn_hKyCDs/T-
 M2jT6CDyI/AAAAAAAACko/BfOEJ_uFGqM/s128/1340290679_Slides.png" screenshot="https://lh4.googleusercontent.com/-p4Cn_hKyCDs/T-
-
 M2jT6CDyI/AAAAAAAACko/BfOEJ_uFGqM/s128/1340290679_Slides.png" width="80%" height="200" author="Romain Vialard" author_email="romain.vialard@gmail.com" 
-
 author_photo="https://lh5.googleusercontent.com/-jCtTYPxmFpI/AAAAAAAAAAI/AAAAAAAABwI/rhjzYu2nA2Y/s250-c-k/photo.jpg" 
-
 author_link="https://plus.google.com/u/0/116263732197316259248/about">
 <Require feature="com.google.gadgets.analytics"/>
 </ModulePrefs>
