@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+
+  <ModulePrefs title="InterfacultyKECCCS2horiz" description="InterfacultyKECCCS-horizo Scroll3"
+    title_url="http://dailyatheistquote.com" author="NiSYS"
+    thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+    author_email="ni.sys745@gmail.com" height="200" width="300" />
+<Content type="html"><![CDATA[
+<!DOCTYPE html>
+<style type="text/css">
+body {margin:0; padding:0;}
+
+
+#large {display:table-cell; width:600px;  /* The width value should be equal to the largest width value in your images + large image 
+
+padding:10px. */
+height:500px;  /* i.e. the largest height value in your images + large image padding:10px + caption division height:15px + 20px 
+
+padding */
+vertical-align:middle; background:#003965;}
+#largeImage {display:block; margin:0 auto; padding:5px;}
+
+
+#caption {width:640px;  /* i.e. large division width:640px - 10px padding */
+height:50px;  /* Allow 15px for each line of caption. */
+padding:5px 5px ; text-align:CENTER;  overflow-x:hidden; overflow-y:auto; font:20px Verdana; color:#FFFFFF; 
+
+background:#003965;}
+
+
+
+#caption a {color:inherit; outline:0;}
+#caption a:hover, #caption a:focus {text-decoration:none;}
+#thumbs {width:646px; overflow:auto; background:#003965;}
+ul {list-style:none; margin:0; padding:0; border-spacing:5px;}
+
+li {display:table-cell;}
+li a, li a img {display:block; width:80px; height:60px; border:0;}
+
+li a:hover, li a:focus {outline:3px solid #8b0000;}
+li a.active {outline:3px solid #00ff1c;}
+
+
+</style>
+<div id="caption">VISITING INTERNATIONAL FACULTY PROGRAM</div> <div id="large"><img id="largeImage" 
+
+src="https://lh3.googleusercontent.com/-4XwdwmBboN0/Ubq4EgiSs9I/AAAAAAAAB7o/tQ0Sk-SKBcM/s640/DSCN0192.jpg">
+<div id="thumbs">
+<ul>
+
+<!--image #1-->
+<li><a data-text=" VISITING INTERNATIONAL FACULTY PROGRAM "
+  href="https://lh3.googleusercontent.com/-4XwdwmBboN0/Ubq4EgiSs9I/AAAAAAAAB7o/tQ0Sk-SKBcM/s640/DSCN0192.jpg">
+<img src="https://lh3.googleusercontent.com/-4XwdwmBboN0/Ubq4EgiSs9I/AAAAAAAAB7o/tQ0Sk-
+
+SKBcM/s144/DSCN0192.jpg"></a></li>
+
+
+<!--image #2-->
+<li><a data-text=" VISITING INTERNATIONAL FACULTY PROGRAM "
+ href="https://lh6.googleusercontent.com/-Vei2krkEmuU/Ubq4FDOTt3I/AAAAAAAAB7s/oHqs6p0X68k/s640/DSCN0194.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+Vei2krkEmuU/Ubq4FDOTt3I/AAAAAAAAB7s/oHqs6p0X68k/s144/DSCN0194.jpg"></a></li>
+
+<!--image #3-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+  href="https://lh6.googleusercontent.com/-39W3mfO_Hc4/Ubq4GYYeUjI/AAAAAAAAB70/pPWttHszmjY/s640/DSCN0197.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+39W3mfO_Hc4/Ubq4GYYeUjI/AAAAAAAAB70/pPWttHszmjY/s144/DSCN0197.jpg"></a></li>
+
+<!--image #4-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+  href="https://lh4.googleusercontent.com/-rRurX0z_wOE/Ubq4HA8VzvI/AAAAAAAAB78/3daQ3Gc32rw/s640/DSCN0200.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+rRurX0z_wOE/Ubq4HA8VzvI/AAAAAAAAB78/3daQ3Gc32rw/s144/DSCN0200.jpg"></a></li>
+
+<!--image #5-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+  h  href= "https://lh6.googleusercontent.com/-v4IOpQbkCW0/Ubq4HwlQ2HI/AAAAAAAAB8I/c65j-0Td73A/s640/DSCN0203.jpg">
+<img src="https://lh6.googleusercontent.com/-v4IOpQbkCW0/Ubq4HwlQ2HI/AAAAAAAAB8I/c65j-
+
+0Td73A/s144/DSCN0203.jpg"></a></li>
+
+<!--image #6-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+   href= "https://lh4.googleusercontent.com/-2bIIkaaO9eg/Ubq4IVTArDI/AAAAAAAAB8Q/4hDNyhjgb7k/s640/DSCN0213.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+2bIIkaaO9eg/Ubq4IVTArDI/AAAAAAAAB8Q/4hDNyhjgb7k/s144/DSCN0213.jpg"></a></li>
+
+<!--image #7-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+   href= "https://lh3.googleusercontent.com/-y8GaJ7oBIjk/Ubq4ItCCPxI/AAAAAAAAB8U/n1lNe9W3HYc/s640/DSCN0224.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+y8GaJ7oBIjk/Ubq4ItCCPxI/AAAAAAAAB8U/n1lNe9W3HYc/s144/DSCN0224.jpg"></a></li>
+
+<!--image #8-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+   href= "https://lh4.googleusercontent.com/-5H1Zv_JZFes/Ubq4BdRY_lI/AAAAAAAAB68/16J6cjvat0U/s640/DSC05311.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+5H1Zv_JZFes/Ubq4BdRY_lI/AAAAAAAAB68/16J6cjvat0U/s144/DSC05311.jpg"></a></li>
+
+<!--image #9-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+    href= "https://lh4.googleusercontent.com/-bzOKQkPdct8/Ubq4BsXXeSI/AAAAAAAAB7E/dZuG3RtgjEM/s640/DSC05312.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+bzOKQkPdct8/Ubq4BsXXeSI/AAAAAAAAB7E/dZuG3RtgjEM/s144/DSC05312.jpg"></a></li>
+
+<!--image #10-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+  href= "https://lh4.googleusercontent.com/-SIzmC93RVm4/Ubq4BRbgBpI/AAAAAAAAB7A/uWFHjRoC16g/s640/DSC05313.jpg">
+<img src=" https://lh4.googleusercontent.com/-
+
+SIzmC93RVm4/Ubq4BRbgBpI/AAAAAAAAB7A/uWFHjRoC16g/s144/DSC05313.jpg"></a></li>
+
+<!--image #11-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+   href= "https://lh5.googleusercontent.com/-vgpBpqbyYO0/Ubq4Cp10RCI/AAAAAAAAB7M/L1yLLjFXuHo/s640/DSC05314.jpg">
+<img src=" https://lh5.googleusercontent.com/-
+
+vgpBpqbyYO0/Ubq4Cp10RCI/AAAAAAAAB7M/L1yLLjFXuHo/s144/DSC05314.jpg"></a></li>
+
+<!--image #12-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+   href= "https://lh6.googleusercontent.com/-
+
+OH8ERBt9FwA/Ubq4D3PQHsI/AAAAAAAAB7U/7mYN8Ih7AME/s640/DSC05315.jpg">
+<img src=" https://lh6.googleusercontent.com/-
+
+OH8ERBt9FwA/Ubq4D3PQHsI/AAAAAAAAB7U/7mYN8Ih7AME/s144/DSC05315.jpg"></a></li>
+
+<!--image #13-->
+<li><a data-text="   VISITING INTERNATIONAL FACULTY PROGRAM  "
+  href= "https://lh5.googleusercontent.com/-4HRj7YvTs8k/Ubq4EeQNzlI/AAAAAAAAB7g/x1SDwzTwmYw/s640/DSCN0191.jpg">
+<img src="https://lh5.googleusercontent.com/-4HRj7YvTs8k/Ubq4EeQNzlI/AAAAAAAAB7g/x1SDwzTwmYw/s144/DSCN0191.jpg 
+
+"></a></li>
+
+</ul>
+</div>
+<script type="text/javascript">
+function setImage(el) {
+document.getElementById('largeImage').src = '' + el.href + '';
+}
+function setCaption(el) {
+var caption = document.getElementById('caption');
+var text = el.getAttribute('data-text');
+var link = el.getAttribute('data-link');
+if (link) {
+caption.innerHTML = '<a href="' + link + '" target="_blank">' + text + '<\/a>';}
+else {
+caption.innerHTML = '' + text + '';}
+}
+var links = document.getElementById('thumbs').getElementsByTagName('a');
+function setClass(el) {
+for (var i = 0; i < links.length; i++) {
+links[i].className = '';
+}
+el.className = 'active';
+}
+for (var i = 0; i < links.length; i++) {
+links[i].onclick = function () { setImage(this); setCaption(this);  setClass(this); return false;};
+}
+</script>
+
+]]></Content>
+</Module>
