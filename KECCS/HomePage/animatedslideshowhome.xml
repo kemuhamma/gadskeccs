@@ -26,7 +26,6 @@ var height = width*4/5;
 var domain = url.match(/a\/[^\/]+\//);
 domain = (domain != null)?domain[0]:"";
 var content = "<iframe width='" + width + "' height='" + height + "' scrolling='no' frameBorder='0' allowtransparency='true' src='https://docs.google.com/" + domain + "presentation/d/" + docId + "/embed?start=true&loop=" + loop + "&delayms=" + delay + "'><\/iframe>"; 
-start=true&loop=" + loop + "&delayms=" + delay + "'><\/iframe>"; 
 // Hide borders
 var topBorderHeight = 8;
 if(navigator.userAgent.search('Chrome') != -1) topBorderHeight+= 2;
