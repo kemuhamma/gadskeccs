@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+
+  <ModulePrefs title="CocaricularKECCCS2horiz" description="CocaricularKECCCS-horizo Scroll3"
+    title_url="http://dailyatheistquote.com" author="NiSYS"
+    thumbnail="http://dailyatheistquote.com/images/thumb.jpg"
+    author_email="ni.sys745@gmail.com" height="200" width="300" />
+<Content type="html"><![CDATA[
+<!DOCTYPE html>
+<style type="text/css">
+body {margin:0; padding:0;}
+
+
+#large {display:table-cell; width:600px;  /* The width value should be equal to the largest width value in your images + large
+
+image padding:10px. */
+height:500px;  /* i.e. the largest height value in your images + large image padding:10px + caption division height:15px + 20px
+
+padding */
+vertical-align:middle; background:#003965;}
+#largeImage {display:block; margin:0 auto; padding:5px;}
+
+
+#caption {width:640px;  /* i.e. large division width:640px - 10px padding */
+height:50px;  /* Allow 15px for each line of caption. */
+padding:5px 5px ; text-align:CENTER;  overflow-x:hidden; overflow-y:auto; font:20px Verdana; color:#FFFFFF; 
+
+background:#003965;}
+
+
+
+#caption a {color:inherit; outline:0;}
+#caption a:hover, #caption a:focus {text-decoration:none;}
+#thumbs {width:646px; overflow:auto; background:#003965;}
+ul {list-style:none; margin:0; padding:0; border-spacing:5px;}
+
+li {display:table-cell;}
+li a, li a img {display:block; width:80px; height:60px; border:0;}
+
+li a:hover, li a:focus {outline:3px solid #8b0000;}
+li a.active {outline:3px solid #00ff1c;}
+
+
+</style>
+<div id="caption">Food Fest is organised  to provide financial assistance to conduct an expensive medical  procedure for a student,
+
+students, Parents  and local residents actively  supported for this noble
+
+cause and encouraged us</div> <div id="large"><img id="largeImage" src="https://lh4.googleusercontent.com/-
+
+rBtic0uc0F8/Ubq8dZTMyMI/AAAAAAAACFI/aOuc9nnxgUw/s640/DSC05011.jpg">
+<div id="thumbs">
+<ul>
+
+<!--image #1-->
+<li><a data-text=" FOOD FEST"
+ href="https://lh4.googleusercontent.com/-rBtic0uc0F8/Ubq8dZTMyMI/AAAAAAAACFI/aOuc9nnxgUw/s640/DSC05011.jpg"
+
+class="active">
+<img src="https://lh4.googleusercontent.com/-
+
+rBtic0uc0F8/Ubq8dZTMyMI/AAAAAAAACFI/aOuc9nnxgUw/s144/DSC05011.jpg"></a></li>
+
+<!--image #2-->
+<li><a data-text=" FOOD FEST"
+ href="https://lh3.googleusercontent.com/-nNudOsmrnK0/Ubq8eow2NCI/AAAAAAAACFQ/MMZyzxTtCKg/s640/DSC05016.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+nNudOsmrnK0/Ubq8eow2NCI/AAAAAAAACFQ/MMZyzxTtCKg/s144/DSC05016.jpg"></a></li>
+
+
+<!--image #3-->
+<li><a data-text=" FOOD FEST"
+ href="https://lh5.googleusercontent.com/-ZFWWz0QTfwE/Ubq8fpFk9PI/AAAAAAAACFc/CFzwqbvmgrw/s640/DSC05020.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+ZFWWz0QTfwE/Ubq8fpFk9PI/AAAAAAAACFc/CFzwqbvmgrw/s144/DSC05020.jpg"></a></li>
+
+<!--image #4-->
+<li><a data-text=" FOOD FEST"
+ href="https://lh3.googleusercontent.com/-feRj-_IJqe0/Ubq8gLp0q2I/AAAAAAAACFg/epmkF0t5ays/s640/DSC05026.jpg">
+<img src="https://lh3.googleusercontent.com/-feRj-
+
+_IJqe0/Ubq8gLp0q2I/AAAAAAAACFg/epmkF0t5ays/s144/DSC05026.jpg"></a></li>
+
+<!--image #5-->
+<li><a data-text=" FOOD FEST  "
+ href="https://lh5.googleusercontent.com/--3i2Tq_YOhk/Ubq8hfVtVgI/AAAAAAAACFo/9EL4CoSGA58/s640/DSC05029.jpg">
+<img src="https://lh5.googleusercontent.com/--
+
+3i2Tq_YOhk/Ubq8hfVtVgI/AAAAAAAACFo/9EL4CoSGA58/s144/DSC05029.jpg"></a></li>
+
+
+
+
+
+
+<!--image #6-->
+<li><a data-text="FOOD FEST"
+ href="https://lh3.googleusercontent.com/-aUfP1TclTic/Ubq8ifjbNRI/AAAAAAAACF4/j8nx411zWEQ/s640/DSC05036.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+aUfP1TclTic/Ubq8ifjbNRI/AAAAAAAACF4/j8nx411zWEQ/s144/DSC05036.jpg"></a></li>
+
+<!--image #7-->
+<li><a data-text="FOOD FEST"
+ href="https://lh4.googleusercontent.com/-LslZn-1UKxM/Ubq8iUXc01I/AAAAAAAACF0/zWVCVuXpyXc/s640/DSC05041.jpg">
+<img src="https://lh4.googleusercontent.com/-LslZn-
+
+1UKxM/Ubq8iUXc01I/AAAAAAAACF0/zWVCVuXpyXc/s144/DSC05041.jpg"></a></li>
+
+
+
+
+<!--image #8-->
+<li><a data-text="FOOD FEST "
+href="https://lh3.googleusercontent.com/-yh0gWHcDRmg/Ubq8jb4TTHI/AAAAAAAACGA/FQjaBEDPoaY/s640/DSC05047.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+yh0gWHcDRmg/Ubq8jb4TTHI/AAAAAAAACGA/FQjaBEDPoaY/s144/DSC05047.jpg"></a></li>
+
+<!--image #9-->
+<li><a data-text="  FOOD FEST"
+  href="https://lh3.googleusercontent.com/-o0-h25haj4s/Ubq8kllmOuI/AAAAAAAACGU/LQ4XfoBPXUc/s640/DSC05058.jpg">
+<img src="https://lh3.googleusercontent.com/-o0-
+
+h25haj4s/Ubq8kllmOuI/AAAAAAAACGU/LQ4XfoBPXUc/s144/DSC05058.jpg"></a></li>
+
+<!--image #10-->
+<li><a data-text="   FOOD FEST "
+  href="https://lh6.googleusercontent.com/-5fW5v4cfTUk/Ubq8c8QMQOI/AAAAAAAACFE/6LsVo3JFrnk/s640/DSC05008.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+5fW5v4cfTUk/Ubq8c8QMQOI/AAAAAAAACFE/6LsVo3JFrnk/s144/DSC05008.jpg"></a></li>
+
+<!--image #11-->
+<li><a data-text="  DRAWING COMPETITION "
+ href="https://lh4.googleusercontent.com/-X_itWjhq8vM/Ubq8LvaP4OI/AAAAAAAACCY/bmv6WgynDrA/s640/10.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+X_itWjhq8vM/Ubq8LvaP4OI/AAAAAAAACCY/bmv6WgynDrA/s144/10.jpg"></a></li>
+
+<!--image #12-->
+<li><a data-text="  DRAWING COMPETITION ""
+  href="https://lh6.googleusercontent.com/-eE9ILDWYYGs/Ubq8LknxrFI/AAAAAAAACCQ/jB_N8tQ0UHY/s640/11.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+eE9ILDWYYGs/Ubq8LknxrFI/AAAAAAAACCQ/jB_N8tQ0UHY/s144/11.jpg"></a></li>
+
+<!--image #13-->
+<li><a data-text="  DRAWING COMPETITION " "
+ href="https://lh4.googleusercontent.com/-dgYeecaWFXM/Ubq8LhsnAiI/AAAAAAAACCU/nz8qOscsHso/s640/DSC03815.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+dgYeecaWFXM/Ubq8LhsnAiI/AAAAAAAACCU/nz8qOscsHso/s144/DSC03815.jpg"></a></li>
+
+<!--image #14-->
+<li><a data-text=" DRAWING COMPETITION  "
+ href= "https://lh6.googleusercontent.com/-Q8akLlmLmkU/Ubq8N_-wR5I/AAAAAAAACCk/nGLjU4bh35Q/s640/DSC03816.jpg">
+<img src="https://lh6.googleusercontent.com/-Q8akLlmLmkU/Ubq8N_-
+
+wR5I/AAAAAAAACCk/nGLjU4bh35Q/s144/DSC03816.jpg"></a></li>
+
+<!--image #15-->
+<li><a data-text=" DRAWING COMPETITION  "
+  href= "https://lh3.googleusercontent.com/-kLYhWaSno0M/Ubq8OPR0ZiI/AAAAAAAACCs/R2BrTdWQy04/s640/DSC03819.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+kLYhWaSno0M/Ubq8OPR0ZiI/AAAAAAAACCs/R2BrTdWQy04/s144/DSC03819.jpg"></a></li>
+
+<!--image #16-->
+<li><a data-text="  DRAWING COMPETITION "
+  href= "https://lh3.googleusercontent.com/-JMeGiNPqhe8/Ubq8ObTDtGI/AAAAAAAACCw/32fst4w5Gtc/s640/DSC03820.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+JMeGiNPqhe8/Ubq8ObTDtGI/AAAAAAAACCw/32fst4w5Gtc/s144/DSC03820.jpg"></a></li>
+
+
+<!--image #17-->
+<li><a data-text=" MUSIC"
+ref= "https://lh6.googleusercontent.com/-U4A4pwY1EsM/Ubq9Hjclr_I/AAAAAAAACK4/Vw2gHe1Oeno/s640/P1020139.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+U4A4pwY1EsM/Ubq9Hjclr_I/AAAAAAAACK4/Vw2gHe1Oeno/s144/P1020139.jpg"></a></li>
+
+<!--image #18-->
+<li><a data-text="  MUSIC "
+ href= "https://lh6.googleusercontent.com/-CMqxCpdBA6A/Ubq9ISRCMgI/AAAAAAAACLA/ZZTyBz63mT0/s640/P1020143.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+CMqxCpdBA6A/Ubq9ISRCMgI/AAAAAAAACLA/ZZTyBz63mT0/s144/P1020143.jpg"></a></li>
+
+<!--image #19-->
+<li><a data-text=" MUSIC"
+ href= "https://lh5.googleusercontent.com/-9JrILRPJmKc/Ubq9JVMpsiI/AAAAAAAACLI/l7AQKeG3v_g/s640/P1020147.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+9JrILRPJmKc/Ubq9JVMpsiI/AAAAAAAACLI/l7AQKeG3v_g/s144/P1020147.jpg"></a></li>
+
+<!--image #20-->
+<li><a data-text=" ONAM CELEBRATION "
+  href= "https://lh6.googleusercontent.com/-A4ZAs2e7LbY/Ubq8P1ZAzRI/AAAAAAAACC8/qDZCHIk3TmM/s640/DSC04042.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+A4ZAs2e7LbY/Ubq8P1ZAzRI/AAAAAAAACC8/qDZCHIk3TmM/s144/DSC04042.jpg"></a></li>
+
+
+<!--image #21-->
+<li><a data-text=" ONAM CELEBRATION "
+  href= "https://lh6.googleusercontent.com/-7_ukDqXdPYM/Ubq8Qu3B_1I/AAAAAAAACDI/cL6YyCrjvUQ/s640/DSC04057.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+7_ukDqXdPYM/Ubq8Qu3B_1I/AAAAAAAACDI/cL6YyCrjvUQ/s144/DSC04057.jpg"></a></li>
+
+
+
+<!--image #22-->
+<li><a data-text="  ONAM CELEBRATION"
+  href= "https://lh4.googleusercontent.com/-ofWY64kjfhQ/Ubq8SXk41HI/AAAAAAAACDQ/SjfeLzRxrJc/s640/DSC04065.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+ofWY64kjfhQ/Ubq8SXk41HI/AAAAAAAACDQ/SjfeLzRxrJc/s144/DSC04065.jpg"></a></li>
+
+
+
+<!--image #23-->
+<li><a data-text="ONAM CELEBRATION"
+  href= "https://lh3.googleusercontent.com/-aXj4GBFXCCo/Ubq8WRETyEI/AAAAAAAACD4/ND2ZxTwJrFs/s640/DSC04098.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+aXj4GBFXCCo/Ubq8WRETyEI/AAAAAAAACD4/ND2ZxTwJrFs/s144/DSC04098.jpg"></a></li>
+
+<!--image #24-->
+<li><a data-text="  ONAM CELEBRATION"
+  href= "https://lh5.googleusercontent.com/-oWYRsexTCXI/Ubq8VktglCI/AAAAAAAACDw/MYKypUBd14g/s640/DSC04114.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+oWYRsexTCXI/Ubq8VktglCI/AAAAAAAACDw/MYKypUBd14g/s144/DSC04114.jpg"></a></li>
+
+<!--image #25-->
+<li><a data-text="  ONAM CELEBRATION"
+  href= "https://lh6.googleusercontent.com/-8jXwbuHyAkw/Ubq8XIzb1hI/AAAAAAAACEA/Mwy6vjoFGYs/s640/DSC04115.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+8jXwbuHyAkw/Ubq8XIzb1hI/AAAAAAAACEA/Mwy6vjoFGYs/s144/DSC04115.jpg"></a></li>
+
+<!--image #26-->
+<li><a data-text=" ONAM CELEBRATION"
+  href= "https://lh3.googleusercontent.com/-0edDa7VI0Os/Ubq8TF5gzkI/AAAAAAAACDc/EkVPzFWzegI/s640/DSC04066.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+0edDa7VI0Os/Ubq8TF5gzkI/AAAAAAAACDc/EkVPzFWzegI/s144/DSC04066.jpg"></a></li>
+
+<!--image #27-->
+<li><a data-text="  ONAM CELEBRATION "
+  href= "https://lh4.googleusercontent.com/-93ST9tinTcg/Ubq8TOAZzAI/AAAAAAAACDg/boZuAlaGpm4/s640/DSC04067.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+93ST9tinTcg/Ubq8TOAZzAI/AAAAAAAACDg/boZuAlaGpm4/s144/DSC04067.jpg"></a></li>
+
+<!--image #28-->
+<li><a data-text="  ONAM CELEBRATION"
+  href= "https://lh5.googleusercontent.com/-IENPgr9E94k/Ubq8QEhyBrI/AAAAAAAACDE/Jr6bJeYpWfg/s640/DSC04038.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+IENPgr9E94k/Ubq8QEhyBrI/AAAAAAAACDE/Jr6bJeYpWfg/s144/DSC04038.jpg"></a></li>
+
+
+  
+
+
+
+
+<!--image #29-->
+<li><a data-text=" CHRISTMAS CELEBRATION"
+  href= "https://lh5.googleusercontent.com/-S2OqLrf9qWw/Ubq8kt6A9wI/AAAAAAAACGQ/PjNGSEpuFzw/s640/DSC06013.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+S2OqLrf9qWw/Ubq8kt6A9wI/AAAAAAAACGQ/PjNGSEpuFzw/s144/DSC06013.jpg"></a></li>
+
+<!--image #30-->
+<li><a data-text=" CHRISTMAS CELEBRATION"
+  href= "https://lh5.googleusercontent.com/-yOEL_dNDTss/Ubq8lCRKSnI/AAAAAAAACGY/mXg562NEupw/s640/DSC06024.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+yOEL_dNDTss/Ubq8lCRKSnI/AAAAAAAACGY/mXg562NEupw/s144/DSC06024.jpg"></a></li>
+
+<!--image #31-->
+<li><a data-text=" CHRISTMAS CELEBRATION "
+  href= "https://lh3.googleusercontent.com/-OfM6QXsT9wM/Ubq8mbnD8jI/AAAAAAAACGg/tfXRFeEbB8A/s640/DSC06054.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+OfM6QXsT9wM/Ubq8mbnD8jI/AAAAAAAACGg/tfXRFeEbB8A/s144/DSC06054.jpg"></a></li>
+
+
+<!--image #32-->
+<li><a data-text=" CHRISTMAS CELEBRATION "
+  href= "https://lh6.googleusercontent.com/-dHkk9NqkaKM/Ubq8nWKyupI/AAAAAAAACGo/en-wfKoEf9A/s640/DSC06056.jpg">
+<img src="https://lh6.googleusercontent.com/-dHkk9NqkaKM/Ubq8nWKyupI/AAAAAAAACGo/en-
+
+wfKoEf9A/s144/DSC06056.jpg"></a></li>
+
+
+
+
+<!--image #33-->
+<li><a data-text="STUDENT'S DAY"
+  href= "https://lh6.googleusercontent.com/-lFqfTNPkiY0/Ubq8X7TInAI/AAAAAAAACEM/vLS55UZxQxs/s640/DSC04175.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+lFqfTNPkiY0/Ubq8X7TInAI/AAAAAAAACEM/vLS55UZxQxs/s144/DSC04175.jpg"></a></li>
+
+<!--image #34-->
+<li><a data-text=" STUDENT'S DAY "
+  href= "https://lh6.googleusercontent.com/-gPoTx-73dtk/Ubq8YZyimXI/AAAAAAAACEQ/4PCLobYh26M/s640/DSC04185.jpg">
+<img src="https://lh6.googleusercontent.com/-gPoTx-
+
+73dtk/Ubq8YZyimXI/AAAAAAAACEQ/4PCLobYh26M/s144/DSC04185.jpg"></a></li>
+
+<!--image #35-->
+<li><a data-text=" STUDENT'S DAY"
+  href= "https://lh5.googleusercontent.com/-uC3BcEhupNo/Ubq8ZfehLgI/AAAAAAAACEY/29844XnwUIE/s640/DSC04186.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+uC3BcEhupNo/Ubq8ZfehLgI/AAAAAAAACEY/29844XnwUIE/s144/DSC04186.jpg"></a></li>
+
+<!--image #36-->
+<li><a data-text="  STUDENT'S DAY "
+  href= "https://lh6.googleusercontent.com/-0ZQlC7MFA-g/Ubq8aRZCBeI/AAAAAAAACEk/i5fxZmKcJ70/s640/DSC04226.jpg">
+<img src="https://lh6.googleusercontent.com/-0ZQlC7MFA-
+
+g/Ubq8aRZCBeI/AAAAAAAACEk/i5fxZmKcJ70/s144/DSC04226.jpg"></a></li>
+
+
+<!--image #37-->
+<li><a data-text="  STUDENT'S DAY"
+  href= "https://lh4.googleusercontent.com/-_mgu-wMdH24/Ubq8afn8OyI/AAAAAAAACEo/EyXlU0Mb9SQ/s640/DSC04233.jpg">
+<img src="https://lh4.googleusercontent.com/-_mgu-
+
+wMdH24/Ubq8afn8OyI/AAAAAAAACEo/EyXlU0Mb9SQ/s144/DSC04233.jpg"></a></li>
+
+
+<!--image #38--
+<li><a data-text="  STUDENT'S DAY "
+  href= "https://lh3.googleusercontent.com/-HgiAjIt4m58/Ubq8bAqIekI/AAAAAAAACEw/UVcr_hUuldg/s640/DSC04238.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+HgiAjIt4m58/Ubq8bAqIekI/AAAAAAAACEw/UVcr_hUuldg/s144/DSC04238.jpg"></a></li>
+
+
+<!--image #39-->
+<li><a data-text="  STUDENT'S DAY"
+  href= "https://lh3.googleusercontent.com/-o08uvjAhc34/Ubq8cUy3dpI/AAAAAAAACE4/NUIG-kEB5Ho/s640/DSC04288.jpg">
+<img src="https://lh3.googleusercontent.com/-o08uvjAhc34/Ubq8cUy3dpI/AAAAAAAACE4/NUIG-
+
+kEB5Ho/s144/DSC04288.jpg"></a></li>
+
+
+
+<!--image #40-->
+<li><a data-text="  CHILDREN'S DAY "
+  href= "https://lh4.googleusercontent.com/-KQbqBK1t-tc/Ubq8_epgjBI/AAAAAAAACJw/gEZimx4UpD8/s640/DSCN0338.jpg">
+<img src="https://lh4.googleusercontent.com/-KQbqBK1t-
+
+tc/Ubq8_epgjBI/AAAAAAAACJw/gEZimx4UpD8/s144/DSCN0338.jpg"></a></li>
+
+<!--image #41-->
+<li><a data-text="  CHILDREN'S DAY"
+  href= "https://lh5.googleusercontent.com/-HaMhoggTTqU/Ubq9BN5K5UI/AAAAAAAACJ4/3MPS7VflqlI/s640/DSCN0339.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+HaMhoggTTqU/Ubq9BN5K5UI/AAAAAAAACJ4/3MPS7VflqlI/s144/DSCN0339.jpg"></a></li>
+
+<!--image #42-->
+<li><a data-text="CHILDREN'S DAY "
+  href= "https://lh3.googleusercontent.com/-8XfCUe4V3bM/Ubq9BXWb-pI/AAAAAAAACKA/Uh2YUGvvoqc/s640/DSCN0342.jpg">
+<img src="https://lh3.googleusercontent.com/-8XfCUe4V3bM/Ubq9BXWb-
+
+pI/AAAAAAAACKA/Uh2YUGvvoqc/s144/DSCN0342.jpg"></a></li>
+
+<!--image #43-->
+<li><a data-text=" CHILDREN'S DAY "
+  href= "https://lh4.googleusercontent.com/-NmeBZqN0Vig/Ubq9ClMfPAI/AAAAAAAACKI/LGkqrJnn9Eo/s640/DSCN0346.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+NmeBZqN0Vig/Ubq9ClMfPAI/AAAAAAAACKI/LGkqrJnn9Eo/s144/DSCN0346.jpg"></a></li>
+
+
+<!--image #44-->
+<li><a data-text="CHILDREN'S DAY"
+  href= "https://lh4.googleusercontent.com/-eYgea0BYEBM/Ubq9EWMkq5I/AAAAAAAACKU/YjaeZruoiHI/s640/DSCN0350.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+eYgea0BYEBM/Ubq9EWMkq5I/AAAAAAAACKU/YjaeZruoiHI/s144/DSCN0350.jpg"></a></li>
+
+
+<!--image #45-->
+<li><a data-text=" CHILDREN'S DAY"
+  href= "https://lh5.googleusercontent.com/-2APHkyczXRY/Ubq9Eug0y7I/AAAAAAAACKc/K5Sg1DmtfTw/s640/DSCN0359.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+2APHkyczXRY/Ubq9Eug0y7I/AAAAAAAACKc/K5Sg1DmtfTw/s144/DSCN0359.jpg"></a></li>
+
+
+<!--image #46-->
+<li><a data-text=" CHILDREN'S DAY"
+  href= "https://lh4.googleusercontent.com/-RKeRcHTYa0w/Ubq9E0R6bCI/AAAAAAAACKg/5G-iYpl6oNE/s640/DSCN0363.jpg">
+<img src="https://lh4.googleusercontent.com/-RKeRcHTYa0w/Ubq9E0R6bCI/AAAAAAAACKg/5G-
+
+iYpl6oNE/s144/DSCN0363.jpg"></a></li>
+
+<!--image #47-->
+<li><a data-text="CHILDREN'S DAY"
+  href= "https://lh3.googleusercontent.com/-5D87yCkdXUk/Ubq9GFcAnqI/AAAAAAAACKo/PlQJtI-1c3w/s640/DSCN0385.jpg">
+<img src="https://lh3.googleusercontent.com/-5D87yCkdXUk/Ubq9GFcAnqI/AAAAAAAACKo/PlQJtI-
+
+1c3w/s144/DSCN0385.jpg"></a></li>
+
+<!--image #48-->
+<li><a data-text="ANNUAL DAY CELEBRATIONS"
+ href="https://lh3.googleusercontent.com/-GxA8PdS8FRY/Ubq8tmTCdII/AAAAAAAACHo/PlPSiZH4wDg/s640/DSC06563.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+GxA8PdS8FRY/Ubq8tmTCdII/AAAAAAAACHo/PlPSiZH4wDg/s144/DSC06563.jpg"></a></li>
+
+<!--image #49-->
+<li><a data-text="ANNUAL DAY CELEBRATIONS "
+ href="https://lh4.googleusercontent.com/-
+
+eXaOL1eHJQo/Ubq8uWuYWbI/AAAAAAAACHw/OBDprUcBQ7Q/s640/DSC06566.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+eXaOL1eHJQo/Ubq8uWuYWbI/AAAAAAAACHw/OBDprUcBQ7Q/s144/DSC06566.jpg"></a></li>
+
+<!--image #50-->
+<li><a data-text=" ANNUAL DAY CELEBRATIONS "
+ href="https://lh5.googleusercontent.com/-twTmhQzW92g/Ubq8u7a7ZKI/AAAAAAAACH4/jbPGnzL8kYM/s640/DSC06574.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+twTmhQzW92g/Ubq8u7a7ZKI/AAAAAAAACH4/jbPGnzL8kYM/s144/DSC06574.jpg"></a></li>
+
+<!--image #51-->
+<li><a data-text="ANNUAL DAY CELEBRATIONS "
+ href="https://lh5.googleusercontent.com/-8Zj-w-igUr0/Ubq8wdz994I/AAAAAAAACIA/3T6iBZtP29Q/s640/DSC06586.jpg">
+<img src="https://lh5.googleusercontent.com/-8Zj-w-
+
+igUr0/Ubq8wdz994I/AAAAAAAACIA/3T6iBZtP29Q/s144/DSC06586.jpg"></a></li>
+
+<!--image #52-->
+<li><a data-text=" ANNUAL DAY CELEBRATIONS "
+ href="https://lh6.googleusercontent.com/-SI4_COoZiko/Ubq8y-9wo3I/AAAAAAAACIM/KprajnGKAQs/s640/DSC06588.jpg">
+<img src="https://lh6.googleusercontent.com/-SI4_COoZiko/Ubq8y-
+
+9wo3I/AAAAAAAACIM/KprajnGKAQs/s144/DSC06588.jpg"></a></li>
+
+<!--image #53-->
+<li><a data-text=" ANNUAL DAY CELEBRATIONS "
+ href="https://lh4.googleusercontent.com/-fAkexN6wr1A/Ubq8y5POXGI/AAAAAAAACIQ/RIsr3cIL6pM/s640/DSC06594.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+fAkexN6wr1A/Ubq8y5POXGI/AAAAAAAACIQ/RIsr3cIL6pM/s144/DSC06594.jpg"></a></li>
+
+<!--image #54-->
+<li><a data-text=" ANNUAL DAY CELEBRATIONS "
+ href="https://lh3.googleusercontent.com/--yZ-ycKco0I/Ubq81PfUCdI/AAAAAAAACIY/eO4sXLUkbHM/s640/DSC06610.jpg">
+<img src="https://lh3.googleusercontent.com/--yZ-
+
+ycKco0I/Ubq81PfUCdI/AAAAAAAACIY/eO4sXLUkbHM/s144/DSC06610.jpg"></a></li>
+
+<!--image #55-->
+<li><a data-text=" ANNUAL DAY CELEBRATIONS "
+ href="https://lh5.googleusercontent.com/-Jp3paYBH7Dg/Ubq82WzxvGI/AAAAAAAACIg/R_11lGdioRE/s640/DSC06640.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+Jp3paYBH7Dg/Ubq82WzxvGI/AAAAAAAACIg/R_11lGdioRE/s144/DSC06640.jpg"></a></li>
+
+<!--image #56-->
+<li><a data-text=" moving with technology... "
+ href="https://lh4.googleusercontent.com/-p7FcNcck4Og/Ubq83bqcrPI/AAAAAAAACIo/-BGZpkiOYFg/s640/DSC06644.jpg">
+<img src="https://lh4.googleusercontent.com/-p7FcNcck4Og/Ubq83bqcrPI/AAAAAAAACIo/-
+
+BGZpkiOYFg/s144/DSC06644.jpg"></a></li>
+
+<!--image #57-->
+<li><a data-text="ANNUAL DAY CELEBRATIONS"
+ href="https://lh5.googleusercontent.com/-EZ_ItJg6GDg/Ubq83-w3YyI/AAAAAAAACI0/Smu4XoehXlI/s640/DSC06653.jpg">
+<img src="https://lh5.googleusercontent.com/-EZ_ItJg6GDg/Ubq83-
+
+w3YyI/AAAAAAAACI0/Smu4XoehXlI/s144/DSC06653.jpg"></a></li>
+
+<!--image #58-->
+<li><a data-text="ANNUAL DAY CELEBRATIONS"
+ href="https://lh6.googleusercontent.com/-dNjxzjKZ9QU/Ubq84bai75I/AAAAAAAACI4/XiBVGljD5Hs/s640/DSC06664.jpgG">
+<img src="https://lh6.googleusercontent.com/-
+
+dNjxzjKZ9QU/Ubq84bai75I/AAAAAAAACI4/XiBVGljD5Hs/s144/DSC06664.jpg"></a></li>
+
+<!--image #59-->
+<li><a data-text=" ANNUAL DAY CELEBRATIONS "
+ href="https://lh6.googleusercontent.com/-qI_Pf2TwxCk/Ubq85hB5mjI/AAAAAAAACJA/o5hbWcFyWpo/s640/DSC06697.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+qI_Pf2TwxCk/Ubq85hB5mjI/AAAAAAAACJA/o5hbWcFyWpo/s144/DSC06697.jpg"></a></li>
+
+<!--image #60-->
+<li><a data-text="ANNUAL DAY CELEBRATIONS "
+ href="https://lh6.googleusercontent.com/-ta4CQxgCAwE/Ubq868Fwi_I/AAAAAAAACJI/A6R55_K0cqY/s640/DSC06702.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+ta4CQxgCAwE/Ubq868Fwi_I/AAAAAAAACJI/A6R55_K0cqY/s144/DSC06702.jpg"></a></li>
+
+<!--image #61-->
+<li><a data-text="ANNUAL DAY CELEBRATIONS "
+ href="https://lh4.googleusercontent.com/-pPmp__fQ2VU/Ubq9HnybZDI/AAAAAAAACK0/pjpjes60OY0/s640/IMG_0027.jpg">
+<img src="https://lh4.googleusercontent.com/-
+
+pPmp__fQ2VU/Ubq9HnybZDI/AAAAAAAACK0/pjpjes60OY0/s144/IMG_0027.jpg"></a></li>
+
+
+
+
+
+<!--image #62-->
+<li><a data-text="  SAHODAYA2012-13  "
+  href="https://lh4.googleusercontent.com/-uTdWb0-_ZN4/Ubq87rE_WzI/AAAAAAAACJQ/FascEji2sEs/s640/DSCN0050.jpg">
+<img src="https://lh4.googleusercontent.com/-uTdWb0-
+
+_ZN4/Ubq87rE_WzI/AAAAAAAACJQ/FascEji2sEs/s144/DSCN0050.jpg"></a></li>
+
+<!--image #63-->
+<li><a data-text="SAHODAYA2012-13   "
+  href="https://lh3.googleusercontent.com/-7Gh0fPBt5x0/Ubq88pJmJaI/AAAAAAAACJY/TmJv9faDy3M/s640/DSCN0057.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+7Gh0fPBt5x0/Ubq88pJmJaI/AAAAAAAACJY/TmJv9faDy3M/s144/DSCN0057.jpg"></a></li>
+
+<!--image #64-->
+<li><a data-text="  SAHODAYA2012-13  "
+  href="https://lh3.googleusercontent.com/-DzdAaIih348/Ubq89-r9ZRI/AAAAAAAACJk/7C0SiQkMSQo/s640/DSCN0063.jpg">
+<img src="https://lh3.googleusercontent.com/-DzdAaIih348/Ubq89-
+
+r9ZRI/AAAAAAAACJk/7C0SiQkMSQo/s144/DSCN0063.jpg"></a></li>
+
+<!--image #65-->
+<li><a data-text="   SAHODAYA2012-13   "
+  href="https://lh5.googleusercontent.com/-amK-OlIN6yk/Ubq8-GFurdI/AAAAAAAACJo/jYtSCZRDrTg/s640/DSCN0067.jpg">
+<img src="https://lh5.googleusercontent.com/-amK-OlIN6yk/Ubq8-
+
+GFurdI/AAAAAAAACJo/jYtSCZRDrTg/s144/DSCN0067.jpg"></a></li>
+
+
+<!--image #66-->
+<li><a data-text=" FOUNDER'S DAY"
+ href="https://lh6.googleusercontent.com/-6XU0KGPP00Q/Ubq8qHlr8OI/AAAAAAAACHM/9pcUwjPNsG8/s640/DSC06245.jpg">
+<img src="https://lh6.googleusercontent.com/-
+
+6XU0KGPP00Q/Ubq8qHlr8OI/AAAAAAAACHM/9pcUwjPNsG8/s144/DSC06245.jpg"></a></li>
+
+<!--image #67-->
+<li><a data-text=" FOUNDER'S DAY"
+ href="https://lh3.googleusercontent.com/-I2jAcX3qmyk/Ubq8o1ax7GI/AAAAAAAACHA/cLgotZ2toTo/s640/DSC06239.jpg">
+<img src="https://lh3.googleusercontent.com/-
+
+I2jAcX3qmyk/Ubq8o1ax7GI/AAAAAAAACHA/cLgotZ2toTo/s144/DSC06239.jpg"></a></li>
+
+<!--image #68-->
+<li><a data-text="FOUNDER'S DAY "
+ href="https://lh4.googleusercontent.com/-9jLTCn-fbdA/Ubq8oNopjAI/AAAAAAAACG0/2b2_kGpW7Tk/s640/DSC06237.jpg">
+<img src="https://lh4.googleusercontent.com/-9jLTCn-
+
+fbdA/Ubq8oNopjAI/AAAAAAAACG0/2b2_kGpW7Tk/s144/DSC06237.jpg"></a></li>
+
+<!--image #69-->
+<li><a data-text=" FOUNDER'S DAY "
+ href="https://lh6.googleusercontent.com/-B-5catOOOnk/Ubq8n-Swz1I/AAAAAAAACG4/lDxJJo7djNA/s640/DSC06233.jpg">
+<img src="https://lh6.googleusercontent.com/-B-5catOOOnk/Ubq8n-
+
+Swz1I/AAAAAAAACG4/lDxJJo7djNA/s144/DSC06233.jpg"></a></li>
+
+<!--image #70-->
+<li><a data-text=" FOUNDER'S DAY "
+ href="https://lh5.googleusercontent.com/-
+
+PUv9GFuynr8/Ubq8qLQa9pI/AAAAAAAACHQ/MA80eWgX2u0/s640/DSC06247.jpgG">
+<img src="https://lh5.googleusercontent.com/-
+
+PUv9GFuynr8/Ubq8qLQa9pI/AAAAAAAACHQ/MA80eWgX2u0/s144/DSC06247.jpg"></a></li>
+
+<!--image #71-->
+<li><a data-text=" FOUNDER'S DAY"
+ href="https://lh5.googleusercontent.com/-zj_Q9sLm33Q/Ubq8rA_aBII/AAAAAAAACHY/GPGKm3zzG6g/s640/DSC06253.jpg">
+<img src="https://lh5.googleusercontent.com/-
+
+zj_Q9sLm33Q/Ubq8rA_aBII/AAAAAAAACHY/GPGKm3zzG6g/s144/DSC06253.jpg"></a></li>
+
+<!--image #72-->
+<li><a data-ext=" FOUNDER'S DAY "
+ href="https://lh5.googleusercontent.com/-15xC6rcbx0U/Ubq8sykPCeI/AAAAAAAACHg/rLK7X-UGQJw/s640/DSC06259.jpg">
+<img src="https://lh5.googleusercontent.com/-15xC6rcbx0U/Ubq8sykPCeI/AAAAAAAACHg/rLK7X-
+
+UGQJw/s144/DSC06259.jpg"></a></li>
+
+<!--image #73-->
+<li><a data-text=" STATE YOUTH FESTIVAL "
+ href="https://lh4.googleusercontent.com/-d2Vm-
+
+PhaUYY/UbwcEzHciPI/AAAAAAAACOg/zusYPf02f04/s640/16KALARI1%2520%25281%2529.jpg">
+<img src="https://lh4.googleusercontent.com/-d2Vm-
+
+PhaUYY/UbwcEzHciPI/AAAAAAAACOg/zusYPf02f04/s144/16KALARI1%2520%25281%2529.jpg"></a></li>
+
+<!--image #74-->
+<li><a data-text=" STATE YOUTH FESTIVAL "
+ href="https://lh6.googleusercontent.com/-1AqbOayViow/UbwcFPrV9AI/AAAAAAAACOk/6yV4Ssq0vfw/s640/A-team-of-
+
+participants-in-the-Yakshaganam-competition-for-high-school-watching-the-performance-of-another-team-at-the-state-school-
+
+youth-festival-at-Malappuram-in-Kochi.jpg">
+<img src="https://lh6.googleusercontent.com/-1AqbOayViow/UbwcFPrV9AI/AAAAAAAACOk/6yV4Ssq0vfw/s144/A-team-of-
+
+participants-in-the-Yakshaganam-competition-for-high-school-watching-the-performance-of-another-team-at-the-state-school-
+
+youth-festival-at-Malappuram-in-Kochi.jpg"></a></li>
+
+
+
+
+</ul>
+</div>
+<script type="text/javascript">
+function setImage(el) {
+document.getElementById('largeImage').src = '' + el.href + '';
+}
+function setCaption(el) {
+var caption = document.getElementById('caption');
+var text = el.getAttribute('data-text');
+var link = el.getAttribute('data-link');
+if (link) {
+caption.innerHTML = '<a href="' + link + '" target="_blank">' + text + '<\/a>';}
+else {
+caption.innerHTML = '' + text + '';}
+}
+var links = document.getElementById('thumbs').getElementsByTagName('a');
+function setClass(el) {
+for (var i = 0; i < links.length; i++) {
+links[i].className = '';
+}
+el.className = 'active';
+}
+for (var i = 0; i < links.length; i++) {
+links[i].onclick = function () { setImage(this); setCaption(this);  setClass(this); return false;};
+}
+</script>
+
+]]></Content>
+</Module>
