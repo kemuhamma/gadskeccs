@@ -63,7 +63,7 @@ setInterval(function(){ tick2() }, 3000);
 
 <ul id="ticker_cont">
 <li>
-       <a href = "http://www.youtube.com/embed/QXTzpJoikSg?rel=0" target = "_blank">  KE Carmel Food Fest  held on 28 NOV 13 was a grand success. The event is organised to help a student in meeting  his hefty medical expense.  Popular print and visual medias cited it as a good example to follow in grooming students to become the complete human beings. Click theis news for the video report.
+       <a href = "http://www.youtube.com/embed/QXTzpJoikSg?rel=0" target = "_blank">  KE Carmel organised Food Fest to help a student in meeting  his hefty medical expense. Medias cited it as a good example to follow. Click this news for the video report.
     </li> 
 
 <li>
