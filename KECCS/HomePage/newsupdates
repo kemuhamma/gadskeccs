@@ -63,7 +63,7 @@ setInterval(function(){ tick2() }, 3000);
 
 <ul id="ticker_cont">
 <li>
-       <a href = "http://www.youtube.com/embed/QXTzpJoikSg?rel=0" target = "_blank">  KE Carmel organised Food Fest to help a student in meeting  his hefty medical expense. Medias cited it as a good example to follow. Click this news for the video report.
+       <a href = "http://www.youtube.com/embed/QXTzpJoikSg?rel=0" target = "_blank">  KE Carmel organised Food Fest to help a student in meeting  his hefty medical expense.Medias cited it as a good example to follow. Click here for the video.
     </li> 
 
 <li>
