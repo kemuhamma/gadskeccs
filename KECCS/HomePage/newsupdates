@@ -64,6 +64,9 @@ setInterval(function(){ tick2() }, 3000);
 <ul id="ticker_cont">
 
 <li>
+       Annual science fair is conducted  at KE carmel campus on Jan 4 th 2014 
+    </li> 
+<li>
        <a href = "http://www.youtube.com/embed/QXTzpJoikSg?rel=0" target = "_blank">  KE Carmel organised Food Fest to help a student in meeting  his hefty medical expense.Medias cited it as a good example to follow. Click here for the video.
     </li> 
 
