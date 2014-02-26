@@ -64,15 +64,15 @@ setInterval(function(){ tick2() }, 3000);
 <ul id="ticker_cont">
 
 
-<li>
-       <a href = "https://drive.google.com/folderview?id=0ByhjQioBsTPeQS1ONzJUbmEtck0&usp=sharing" target = "_blank">Delizia 2014-Annual day celebrations.
+     <li>
+       <a href = "https://drive.google.com/?usp=chrome_app&usp=chrome_app&authuser=0#folders/0ByhjQioBsTPeQS1ONzJUbmEtck0" target = "_blank">Delizia 2014-Annual day celebrations.
     </li> 
 
 
 <li>
        Annual science fair is conducted  at KE carmel campus on Jan 4 th 2014 
     </li> 
-<li>
+    <li>
        <a href = "http://www.youtube.com/embed/QXTzpJoikSg?rel=0" target = "_blank">  KE Carmel organised Food Fest to help a student in meeting  his hefty medical expense.Medias cited it as a good example to follow. Click here for the video.
     </li> 
 
