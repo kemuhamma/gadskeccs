@@ -63,6 +63,10 @@ setInterval(function(){ tick2() }, 3000);
 
 <ul id="ticker_cont">
 
+<li>
+       Annual examination(SA2) begins on march 10 th 2014
+    </li> 
+
 
      <li>
        <a href = "https://drive.google.com/folderview?id=0ByhjQioBsTPeaWhsckZEcWxxem8&usp=sharing" target = "_blank">Delizia 2014-Annual day celebrations.
