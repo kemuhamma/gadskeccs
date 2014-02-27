@@ -64,7 +64,7 @@ setInterval(function(){ tick2() }, 3000);
 <ul id="ticker_cont">
 
 <li>
-       Annual examination(SA2) begins on march 10 th 2014
+       Annual examination(SA2) begins on March 10 th 2014
     </li> 
 
 
