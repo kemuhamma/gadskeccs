@@ -58,10 +58,18 @@ class="active">
 
 <!--image #1-->
 <li><a data-text=" DELIZIA 2014"
+ href="https://lh4.googleusercontent.com/-imOCzW32Md0/UxBNPK8bEBI/AAAAAAAAAYU/Rx_p0uyF6jI/s640/DSC_0435.JPG"
+
+class="active">
+<img src="https://lh4.googleusercontent.com/-imOCzW32Md0/UxBNPK8bEBI/AAAAAAAAAYU/Rx_p0uyF6jI/s144/DSC_0435.JPG"></a></li>
+
+<!--image #1-->
+<li><a data-text=" DELIZIA 2014"
  href="https://lh3.googleusercontent.com/--bQE6gYmzNc/UxBNML063jI/AAAAAAAAAYU/qZWftxTQdTs/s640/DSC_0051.JPG"
 
 class="active">
 <img src="https://lh3.googleusercontent.com/--bQE6gYmzNc/UxBNML063jI/AAAAAAAAAYU/qZWftxTQdTs/s144/DSC_0051.JPG"></a></li>
+
 
 <!--image #2-->
 <li><a data-text="DELIZIA 2014"
