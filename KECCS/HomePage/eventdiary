@@ -37,10 +37,6 @@ li a:hover, li a:focus {outline:3px solid #8b0000;}
 li a.active {outline:3px solid #00ff1c;}
 
 
-
-
-
-
 </style>
 <div id="caption">DELIZIA 2014</div> <div id="large"><img id="largeImage" src="https://lh3.googleusercontent.com/-M8pt7JBj-O0/UxAceMXG0qI/AAAAAAAAAWE/up3L62dfz4E/s640/DSC_0068.jpg">
 <div id="thumbs">
@@ -51,28 +47,18 @@ li a.active {outline:3px solid #00ff1c;}
 data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"href="https://lh3.googleusercontent.com/-M8pt7JBj-O0/UxAceMXG0qI/AAAAAAAAAWE/up3L62dfz4E/s640/DSC_0068.jpg"
 
 
-
 <img src="https://lh3.googleusercontent.com/-M8pt7JBj-O0/UxAceMXG0qI/AAAAAAAAAWE/up3L62dfz4E/s144/DSC_0068.jpg"></a></li>
-
-<div id="caption">K. E. Bags Chavara Everrolling Trophy 2013</div> <div id="large"><img id="largeImage" src="https://lh6.googleusercontent.com/-i3Db5heC_UQ/UnHmAlruopI/AAAAAAAACVI/urWvFBa7lKU/s640/Winners%2520photo1.jpg">
-<div id="thumbs">
-
-
-
 
 <!--image #1-->
 <li><a data-text= "K. E. Bags Chavara Everrolling Trophy 2013"
 data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"href="https://lh6.googleusercontent.com/-i3Db5heC_UQ/UnHmAlruopI/AAAAAAAACVI/urWvFBa7lKU/s640/Winners%2520photo1.jpg"
 
-<img src="https://lh4.googleusercontent.com/-QzLxQOPStjw/UkZihnN_nYI/AAAAAAAAAMs/1wkcHtHXYMk/s144/DSC07711.JPG"></a></li>
-<!--image #1-->
-<li><a data-text= "Onam Celebration 2013 "
-data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"href="https://lh4.googleusercontent.com/-QzLxQOPStjw/UkZihnN_nYI/AAAAAAAAAMs/1wkcHtHXYMk/s640/DSC07711.JPG"
+
+<img src="https://lh6.googleusercontent.com/-i3Db5heC_UQ/UnHmAlruopI/AAAAAAAACVI/urWvFBa7lKU/s144/Winners%2520photo1.jpg"></a></li>
 
 <!--image #1-->
 <li><a data-text= "Onam Celebration 2013 "
 data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"href="https://lh4.googleusercontent.com/-QzLxQOPStjw/UkZihnN_nYI/AAAAAAAAAMs/1wkcHtHXYMk/s640/DSC07711.JPG"
-
 
 
 <img src="https://lh4.googleusercontent.com/-QzLxQOPStjw/UkZihnN_nYI/AAAAAAAAAMs/1wkcHtHXYMk/s144/DSC07711.JPG"></a></li>
@@ -334,3 +320,17 @@ links[i].onclick = function () { setImage(this); setCaption(this);  setClass(thi
 </Module>
 
 
+Hide details
+Change log
+r77 by gadskec@gmail.com on Today (72 minutes ago)   Diff
+gddd
+Go to: 	
+Double click a line to add a comment
+Older revisions
+ r76 by gadskec@gmail.com on Today (73 minutes ago)   Diff 
+ r75 by gadskec@gmail.com on Today (76 minutes ago)   Diff 
+ r74 by gadskec@gmail.com on Today (78 minutes ago)   Diff 
+All revisions of this file
+File info
+Size: 16105 bytes, 319 lines
+View raw file
