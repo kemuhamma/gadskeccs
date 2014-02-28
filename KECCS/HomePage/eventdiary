@@ -319,18 +319,3 @@ links[i].onclick = function () { setImage(this); setCaption(this);  setClass(thi
 ]]></Content>
 </Module>
 
-
-Hide details
-Change log
-r77 by gadskec@gmail.com on Today (72 minutes ago)   Diff
-gddd
-Go to: 	
-Double click a line to add a comment
-Older revisions
- r76 by gadskec@gmail.com on Today (73 minutes ago)   Diff 
- r75 by gadskec@gmail.com on Today (76 minutes ago)   Diff 
- r74 by gadskec@gmail.com on Today (78 minutes ago)   Diff 
-All revisions of this file
-File info
-Size: 16105 bytes, 319 lines
-View raw file
