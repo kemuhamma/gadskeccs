@@ -44,8 +44,7 @@ li a.active {outline:3px solid #00ff1c;}
 <div id="thumbs">
 <ul>
 <!--image #1-->
-<li><a data-text= "STAFF PHOTO"
-data-link="https://sites.google.com/site/schoolkecarmel/co-curicular#exactline"href="https://lh4.googleusercontent.com/-oU9GNvv3igY/UzqwrLuZCjI/AAAAAAAAAZs/8NN5XPsV0Cg/s640/11.jpg"
+<li><a href="https://lh4.googleusercontent.com/-oU9GNvv3igY/UzqwrLuZCjI/AAAAAAAAAZs/8NN5XPsV0Cg/s640/11.jpg"
 
 <img src="https://lh4.googleusercontent.com/-oU9GNvv3igY/UzqwrLuZCjI/AAAAAAAAAZs/8NN5XPsV0Cg/s144/11.jpg"></a></li>
 
