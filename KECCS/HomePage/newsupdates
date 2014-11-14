@@ -64,10 +64,16 @@ setInterval(function(){ tick2() }, 3000);
 <ul id="ticker_cont">
 
 <li>
-     <a href="" target = "_blank" > FA3 Exams will be from Dec 11 to Dec 19 2014.Time table will be issued later
+     <a href= target = "_blank" > FA3 Exams will be from Dec 11 to Dec 19 2014.Time table will be issued later
  
    
                </li>
+ <li>
+     <a href= target = "_blank" >Children's Day will be celebrated on Nov 19 2014 
+ 
+   
+               </li>
+
 
 
 <li>
