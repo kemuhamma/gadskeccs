@@ -40,9 +40,14 @@ li a.active {outline:3px solid #00ff1c;}
 </style>
 
 
-<div id="caption">STAFF PHOTO</div> <div id="large"><img id="largeImage" src="https://lh4.googleusercontent.com/-oU9GNvv3igY/UzqwrLuZCjI/AAAAAAAAAZs/8NN5XPsV0Cg/s640/11.jpg">
+<div id="caption">DJEMBE Band's inauguration</div> <div id="large"><img id="largeImage" src="https://lh5.googleusercontent.com/-WuBsOe6XREk/VGXX1LUzvxI/AAAAAAAAAg0/Twg90t7z3-o/s640/j.jpg">
 <div id="thumbs">
 <ul>
+<!--image #1-->
+<li><a data-text= "DJEMBE Band's inauguration" href="https://lh5.googleusercontent.com/-WuBsOe6XREk/VGXX1LUzvxI/AAAAAAAAAg0/Twg90t7z3-o/s640/j.jpg"
+
+<img src="https://lh5.googleusercontent.com/-WuBsOe6XREk/VGXX1LUzvxI/AAAAAAAAAg0/Twg90t7z3-o/s144/j.jpg"></a></li>
+
 <!--image #1-->
 <li><a data-text= "STAFF PHOTO" href="https://lh4.googleusercontent.com/-oU9GNvv3igY/UzqwrLuZCjI/AAAAAAAAAZs/8NN5XPsV0Cg/s640/11.jpg"
 
